@@ -2,7 +2,7 @@ Copyright (c) 2026, Mark Davis mark@wordmark.nyc, with typefaces “Cal Sans,”
 
 <!-- markdownlint-disable MD033 MD036 MD041 -->
 
-# Cal Sans v1.900
+# Cal Sans v1.9xx
 
 [![npm](https://badgen.net/npm/v/cal-sans)](https://www.npmjs.com/package/cal-sans)
 [![packagephobia/install](https://badgen.net/packagephobia/install/cal-sans)](https://www.npmjs.com/package/cal-sans)
@@ -269,11 +269,10 @@ Shipping without parametric axes, Cal Sans (v1.000 and v1.500) tried to strike a
 We used metrics from v1.000 that caused details of the font to feel comparatively small to other typefaces, we also learned since shipping v1.500 it isn’t standard to make adjustments to a production type scale. Our many revisions (1.600) since was “enbiggening” the caps proportionally by 3% and the lowercase by 5%. [We also raised the vertical metrics](https://github.com/calcom/sans-ui/issues/8).
 
 ###Confusing character shapes
-
-Google fonts doesnt like "mode" or sliders that are only toggles
+The introduction of the A11y GEOM range was through many requests, especially as ambiguous context phrases like “AI” have raised in frequency, it turned to not be much more effort to cover these real usecases for added clarity. The modernist neo-grotesque removing all differentiatio between the uppercase I and lowercase l has been solved and many people prefer this solution.
 
 ###Better multilingual support
-Typified by [GH Issue №12](https://github.com/calcom/sans/issues/12) we have improved the display of  
+Typified by [GH Issue №12](https://github.com/calcom/sans/issues/12) we have improved the display of vietnamese diacritics and many more across the board.
 
 ## Latin Language Support
 
