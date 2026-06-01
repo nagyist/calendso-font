@@ -75,18 +75,6 @@ body {
 }
 ```
 
-Because `opsz` handles optical adaptation, letter-spacing adjustments at different sizes are smaller than with Cal Sans 1.0. Still, adding a little positive tracking at intermediate sizes improves texture:
-
-```css
-h1 { font-size: 56px; }
-h2 { font-size: 40px; letter-spacing: 0.005em; }
-h3 { font-size: 32px; letter-spacing: 0.01em; }
-h4 { font-size: 24px; letter-spacing: 0.015em; }
-h5 { font-size: 20px; letter-spacing: 0.02em; }
-h6 { font-size: 16px; letter-spacing: 0.025em; }
-p  { font-size: 14px; letter-spacing: 0.01em; }
-```
-
 ### Manual `font-variation-settings`
 
 For explicit control over every axis:
@@ -107,7 +95,7 @@ For explicit control over every axis:
 /* Fine print */
 .caption {
   font-family: "Cal Sans", sans-serif;
-  font-variation-settings: "opsz" 8, "GEOM" 0, "wght" 400;
+  font-variation-settings: "opsz" 8, "GEOM" 25, "wght" 400;
 }
 
 /* Sharpen terminals for high-contrast display use */
@@ -193,7 +181,7 @@ For GEOM and SHRP variants in Tailwind utility classes:
 
 ![Geometry animation](/documentation/images/Cal_Sans_UI_GEOM_Variable_axis.gif)
 
-Nearly 1,000 glyphs, 3,000 kern pairs, and Latin diacritics covering Vietnamese, Marshallese, and more.
+Over 1,300 glyphs, 3,000 kern pairs, and Latin diacritics covering Vietnamese, Marshallese, and more.
 
 ![Character set](/documentation/images/2_CSUI_charset.png)
 
@@ -210,7 +198,7 @@ The two optical size poles do not simply scale spacing — the letterforms thems
 | Axis              | Tag    | Range     | Default | Description                                                                         |
 | :---------------- | :----- | :-------- | :------ | :---------------------------------------------------------------------------------- |
 | Optical Size      | `opsz` | 8 – 32    | 14      | Adapts spacing, proportion, and detail from fine print / UI (8) to display (32)     |
-| Geometric Form    | `GEOM` | 0 – 100   | 25      | Neutrality/accessibility (0) → UI default (25) → Cal Sans brand (50) → Geo (100)   |
+| Geometric Form    | `GEOM` | 0 – 100   | 25      | Accessibility (0) → Neutrality/UI default (25) → Cal Sans brand (50) → Geo (100)   |
 | Weight            | `wght` | 400 – 700 | 400     | Regular → Bold                                                                      |
 | Ascender Height   | `YTAS` | 720 – 800 | 720     | Adjusts ascender and cap height for metric compatibility or visual preferences      |
 | Sharp             | `SHRP` | 0 – 100   | 0       | Softens (0) or sharpens (100) terminals and joins                                   |
@@ -219,40 +207,47 @@ The two optical size poles do not simply scale spacing — the letterforms thems
 
 The following named instances are included as presets across two optical sizes and four GEOM levels:
 
-| Instance            | opsz | GEOM | wght |
-| :------------------ | :--- | :--- | :--- |
-| Regular             | 32   | 50   | 400  |
-| Medium              | 32   | 50   | 500  |
-| SemiBold            | 32   | 50   | 600  |
-| Bold                | 32   | 50   | 700  |
-| UI Regular          | 32   | 25   | 400  |
-| UI Medium           | 32   | 25   | 500  |
-| UI SemiBold         | 32   | 25   | 600  |
-| UI Bold             | 32   | 25   | 700  |
-| Geo Regular         | 32   | 100  | 400  |
-| Geo Medium          | 32   | 100  | 500  |
-| Geo SemiBold        | 32   | 100  | 600  |
-| Geo Bold            | 32   | 100  | 700  |
-| A11y Regular        | 32   | 0    | 400  |
-| A11y Medium         | 32   | 0    | 500  |
-| A11y SemiBold       | 32   | 0    | 600  |
-| A11y Bold           | 32   | 0    | 700  |
-| Text Regular        | 10   | 50   | 400  |
-| Text Medium         | 10   | 50   | 500  |
-| Text SemiBold       | 10   | 50   | 600  |
-| Text Bold           | 10   | 50   | 700  |
-| Text UI Regular     | 10   | 25   | 400  |
-| Text UI Medium      | 10   | 25   | 500  |
-| Text UI SemiBold    | 10   | 25   | 600  |
-| Text UI Bold        | 10   | 25   | 700  |
-| Text Geo Regular    | 10   | 100  | 400  |
-| Text Geo Medium     | 10   | 100  | 500  |
-| Text Geo SemiBold   | 10   | 100  | 600  |
-| Text Geo Bold       | 10   | 100  | 700  |
-| Text A11y Regular   | 10   | 0    | 400  |
-| Text A11y Medium    | 10   | 0    | 500  |
-| Text A11y SemiBold  | 10   | 0    | 600  |
-| Text A11y Bold      | 10   | 0    | 700  |
+### Cal Sans ~42px
+
+| Instance      | opsz | GEOM | wght |
+| :------------ | :--- | :--- | :--- |
+| Regular       | 32   | 50   | 400  |
+| Medium        | 32   | 50   | 500  |
+| SemiBold      | 32   | 50   | 600  |
+| Bold          | 32   | 50   | 700  |
+| UI Regular    | 32   | 25   | 400  |
+| UI Medium     | 32   | 25   | 500  |
+| UI SemiBold   | 32   | 25   | 600  |
+| UI Bold       | 32   | 25   | 700  |
+| Geo Regular   | 32   | 100  | 400  |
+| Geo Medium    | 32   | 100  | 500  |
+| Geo SemiBold  | 32   | 100  | 600  |
+| Geo Bold      | 32   | 100  | 700  |
+| A11y Regular  | 32   | 0    | 400  |
+| A11y Medium   | 32   | 0    | 500  |
+| A11y SemiBold | 32   | 0    | 600  |
+| A11y Bold     | 32   | 0    | 700  |
+
+### Cal Sans Text ~14px
+
+| Instance           | opsz | GEOM | wght |
+| :----------------- | :--- | :--- | :--- |
+| Text Regular       | 10   | 50   | 400  |
+| Text Medium        | 10   | 50   | 500  |
+| Text SemiBold      | 10   | 50   | 600  |
+| Text Bold          | 10   | 50   | 700  |
+| Text UI Regular    | 10   | 25   | 400  |
+| Text UI Medium     | 10   | 25   | 500  |
+| Text UI SemiBold   | 10   | 25   | 600  |
+| Text UI Bold       | 10   | 25   | 700  |
+| Text Geo Regular   | 10   | 100  | 400  |
+| Text Geo Medium    | 10   | 100  | 500  |
+| Text Geo SemiBold  | 10   | 100  | 600  |
+| Text Geo Bold      | 10   | 100  | 700  |
+| Text A11y Regular  | 10   | 0    | 400  |
+| Text A11y Medium   | 10   | 0    | 500  |
+| Text A11y SemiBold | 10   | 0    | 600  |
+| Text A11y Bold     | 10   | 0    | 700  |
 
 ## Latin Language Support
 
