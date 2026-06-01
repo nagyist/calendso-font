@@ -8,16 +8,17 @@ Copyright (c) 2026, Mark Davis mark@wordmark.nyc, with typefaces "Cal Sans UI," 
 [![packagephobia/install](https://badgen.net/packagephobia/install/cal-sans)](https://www.npmjs.com/package/cal-sans)
 [![packagephobia/publish](https://badgen.net/packagephobia/publish/cal-sans)](https://www.npmjs.com/package/cal-sans)
 
-Geometric sans-serif variable font for every size of Cal.com — display headlines, subheadings, UI, and fine print — in a single file.
+Cal Sans 2 is an open-source variable font purpose-built for both product design and brand — a single file that spans fine-print UI at 8 pt through large display headlines, adapting its proportions, spacing, and geometry at every step. It belongs to the same generation of optically-scaled geometric typefaces as Google Sans Flex, Inter, and Anthropic Sans, the latter a variable Geist fork with a 16–48 pt optical size range. Cal Sans 2 pushes that range further: **8–32 pt**, covering the full stack from dense data UI through hero type with a single `font-optical-sizing: auto` declaration.
+
+![Specimen Example](/documentation/images/1_opengraph.png)
+
+Cal Sans is an Open Source typeface for [Cal.com](https://cal.com/), founded by [Peer Richelsen](https://twitter.com/peer_rich) and [Bailey Pumfleet](https://twitter.com/BaileyPumfleet), with interface design by [Ciarán Hanrahan](https://twitter.com/CiaranHan). Designed by [Mark Davis](https://twitter.com/MarkFonts).
 
 ---
 
 **Table of contents**
 
 - [Introduction](#introduction)
-- [Design Philosophy and Unique Characteristics](#design-philosophy-and-unique-characteristics)
-- [Variable Axes](#variable-axes)
-- [Named Instances](#named-instances)
 - [Installation Instructions](#installation-instructions)
   - [Desktop](#desktop)
 - [NPM Package](#npm-package)
@@ -26,6 +27,10 @@ Geometric sans-serif variable font for every size of Cal.com — display headlin
   - [Manual `font-variation-settings`](#manual-font-variation-settings)
   - [Next.js 13+](#nextjs-13)
   - [With Tailwind CSS](#with-tailwind-css)
+- [Design Philosophy and Unique Characteristics](#design-philosophy-and-unique-characteristics)
+- [Variable Axes](#variable-axes)
+- [Named Instances](#named-instances)
+- [Latin Language Support](#latin-language-support)
 - [Special Thanks](#special-thanks)
 - [License](#license)
 - [Repository Layout](#repository-layout)
@@ -34,86 +39,7 @@ Geometric sans-serif variable font for every size of Cal.com — display headlin
 
 ## Introduction
 
-Cal Sans is a geometric sans-serif Open Source typeface for [Cal.com](https://cal.com/), a company founded by [Peer Richelsen](https://twitter.com/peer_rich) and [Bailey Pumfleet](https://twitter.com/BaileyPumfleet), with interface design by [Ciarán Hanrahan](https://twitter.com/CiaranHan). Designed by [Mark Davis](https://twitter.com/MarkFonts).
-
-Version 2 is a single variable font that replaces the need for separate display and UI families. Whether you are typesetting a large hero headline, a 14 px UI label, or fine print at 8 px, one file handles everything — and adapts automatically when you use `font-optical-sizing: auto`.
-
-![Specimen Example](/documentation/images/1_opengraph.png)
-
-The design lineage: Cal Sans 1.0 (2021) was built strictly for display — tight, geometric, and intentionally extreme. The companion release Cal Sans UI (2025) rebuilt proportions for UI and text use. Cal Sans 2 fuses both, connecting them through an optical size axis (`opsz`) so that the font continuously transitions from UI reading size through display, letting the same type system cover every context in a single token.
-
-## Design Philosophy and Unique Characteristics
-
-**Display end (opsz 20–32).** The original Cal Sans vision: "tight but not touching" geometric headlines. Letters are spaced for large-size use right out of the box. The proportions are pure, circular, and close to Futura in spirit. At this end of the optical size axis, positive letter-spacing should be applied as size decreases.
-
-**UI and text end (opsz 8–14).** Proportions are re-optimized: extenders lengthen, x-heights lower (improving sentence-shape legibility around capitals), circular characters flatten by approximately 7–8% of their width for economy, and built-in sidebearings expand by 40–42 units compared to the original design. Minuscule gaps open at stroke joins, and terminals rotate away from counter forms by 8%, all contributing to clarity at small sizes. It remains tighter than comparable Open Source UI fonts by design.
-
-**The optical size axis ties it together.** Cal Sans 2 was [discussed publicly](https://www.reddit.com/r/typography/comments/1lhs7j5/cal_sans_but_with_a_size_axisopen_source_and/) as the long-term direction: a fully responsive single font where optical compensation is built in. That font is this one. Set `font-optical-sizing: auto` in CSS and the browser passes the rendered point size to the font, which then adapts on its own.
-
-**Geometric Form axis (`GEOM`).** A second design axis controls how geometric the letterforms appear independently of size or weight. At GEOM 0, an accessibility-first neutrality takes priority. At GEOM 25 (the default), the font behaves as a refined UI face. At GEOM 50, you get the Cal Sans character that has been the brand standard. At GEOM 100, full Futura-esque geometry for maximum display impact.
-
-![Geometry animation](/documentation/images/4_geometry.gif)
-
-Nearly 1,000 glyphs, 3,000 kern pairs, and Latin diacritics covering Vietnamese, Marshallese, and more.
-
-![Character set](/documentation/images/2_CSUI_charset.png)
-
-![Proportions comparison](/documentation/images/3_proportions.png)
-
-The two optical size poles do not simply scale spacing — the letterforms themselves shift. The double-story **a** makes its debut in Cal Sans 2, essential for disambiguation in numeral/letter mixed environments at small UI sizes, while the geometric single-story **a** remains available via Stylistic Set 01.
-
-![Double-story a](/documentation/images/2_haveit.png)
-
-![Usage examples](/documentation/images/2_CSUI_examples.png)
-
-## Variable Axes
-
-| Axis              | Tag    | Range     | Default | Description                                                                         |
-| :---------------- | :----- | :-------- | :------ | :---------------------------------------------------------------------------------- |
-| Optical Size      | `opsz` | 8 – 32    | 14      | Adapts spacing, proportion, and detail from fine print / UI (8) to display (32)     |
-| Geometric Form    | `GEOM` | 0 – 100   | 25      | Neutrality/accessibility (0) → UI default (25) → Cal Sans brand (50) → Geo (100)   |
-| Weight            | `wght` | 400 – 700 | 400     | Regular → Bold                                                                      |
-| Ascender Height   | `YTAS` | 720 – 800 | 720     | Adjusts ascender and cap height for metric compatibility or visual preferences      |
-| Sharp             | `SHRP` | 0 – 100   | 0       | Softens (0) or sharpens (100) terminals and joins                                   |
-
-## Named Instances
-
-The following named instances are included as presets across two optical sizes and four GEOM levels:
-
-| Instance            | opsz | GEOM | wght |
-| :------------------ | :--- | :--- | :--- |
-| Regular             | 32   | 50   | 400  |
-| Medium              | 32   | 50   | 500  |
-| SemiBold            | 32   | 50   | 600  |
-| Bold                | 32   | 50   | 700  |
-| UI Regular          | 32   | 25   | 400  |
-| UI Medium           | 32   | 25   | 500  |
-| UI SemiBold         | 32   | 25   | 600  |
-| UI Bold             | 32   | 25   | 700  |
-| Geo Regular         | 32   | 100  | 400  |
-| Geo Medium          | 32   | 100  | 500  |
-| Geo SemiBold        | 32   | 100  | 600  |
-| Geo Bold            | 32   | 100  | 700  |
-| A11y Regular        | 32   | 0    | 400  |
-| A11y Medium         | 32   | 0    | 500  |
-| A11y SemiBold       | 32   | 0    | 600  |
-| A11y Bold           | 32   | 0    | 700  |
-| Text Regular        | 10   | 50   | 400  |
-| Text Medium         | 10   | 50   | 500  |
-| Text SemiBold       | 10   | 50   | 600  |
-| Text Bold           | 10   | 50   | 700  |
-| Text UI Regular     | 10   | 25   | 400  |
-| Text UI Medium      | 10   | 25   | 500  |
-| Text UI SemiBold    | 10   | 25   | 600  |
-| Text UI Bold        | 10   | 25   | 700  |
-| Text Geo Regular    | 10   | 100  | 400  |
-| Text Geo Medium     | 10   | 100  | 500  |
-| Text Geo SemiBold   | 10   | 100  | 600  |
-| Text Geo Bold       | 10   | 100  | 700  |
-| Text A11y Regular   | 10   | 0    | 400  |
-| Text A11y Medium    | 10   | 0    | 500  |
-| Text A11y SemiBold  | 10   | 0    | 600  |
-| Text A11y Bold      | 10   | 0    | 700  |
+Cal Sans 1.0 (2021) was a single static weight built for display — tight, geometric, and intentionally extreme at large sizes. Cal Sans UI (2025) rebuilt the proportions for product interfaces. Cal Sans 2 fuses both into a single variable font, connected through an optical size axis (`opsz`) that continuously adapts from small UI reading size through large display, covering every context in the Cal.com type system with one token.
 
 ## Installation Instructions
 
@@ -250,6 +176,81 @@ For GEOM and SHRP variants in Tailwind utility classes:
   .font-sharp  { font-variation-settings: "SHRP" 100; }
 }
 ```
+
+---
+
+## Design Philosophy and Unique Characteristics
+
+**Display end (opsz 20–32).** The original Cal Sans vision: "tight but not touching" geometric headlines. Letters are spaced for large-size use right out of the box. The proportions are pure, circular, and close to Futura in spirit. At this end of the optical size axis, positive letter-spacing should be applied as size decreases.
+
+**UI and text end (opsz 8–14).** Proportions are re-optimized: extenders lengthen, x-heights lower (improving sentence-shape legibility around capitals), circular characters flatten by approximately 7–8% of their width for economy, and built-in sidebearings expand by 40–42 units compared to the original design. Minuscule gaps open at stroke joins, and terminals rotate away from counter forms by 8%, all contributing to clarity at small sizes. It remains tighter than comparable Open Source UI fonts by design.
+
+**The optical size axis ties it together.** Cal Sans 2 was [discussed publicly](https://www.reddit.com/r/typography/comments/1lhs7j5/cal_sans_but_with_a_size_axisopen_source_and/) as the long-term direction: a fully responsive single font where optical compensation is built in. That font is this one. Set `font-optical-sizing: auto` in CSS and the browser passes the rendered point size to the font, which then adapts on its own.
+
+**Geometric Form axis (`GEOM`).** A second design axis controls how geometric the letterforms appear independently of size or weight. At GEOM 0, an accessibility-first neutrality takes priority. At GEOM 25 (the default), the font behaves as a refined UI face. At GEOM 50, you get the Cal Sans character that has been the brand standard. At GEOM 100, full Futura-esque geometry for maximum display impact.
+
+![Geometry animation](/documentation/images/Cal_Sans_UI_GEOM_Variable_axis.gif)
+
+Nearly 1,000 glyphs, 3,000 kern pairs, and Latin diacritics covering Vietnamese, Marshallese, and more.
+
+![Character set](/documentation/images/2_CSUI_charset.png)
+
+![Proportions comparison](/documentation/images/3_proportions.png)
+
+The two optical size poles do not simply scale spacing — the letterforms themselves shift. The double-story **a** makes its debut in Cal Sans 2, essential for disambiguation in numeral/letter mixed environments at small UI sizes, while the geometric single-story **a** remains available via Stylistic Set 01.
+
+![Double-story a](/documentation/images/2_haveit.png)
+
+![Usage examples](/documentation/images/2_CSUI_examples.png)
+
+## Variable Axes
+
+| Axis              | Tag    | Range     | Default | Description                                                                         |
+| :---------------- | :----- | :-------- | :------ | :---------------------------------------------------------------------------------- |
+| Optical Size      | `opsz` | 8 – 32    | 14      | Adapts spacing, proportion, and detail from fine print / UI (8) to display (32)     |
+| Geometric Form    | `GEOM` | 0 – 100   | 25      | Neutrality/accessibility (0) → UI default (25) → Cal Sans brand (50) → Geo (100)   |
+| Weight            | `wght` | 400 – 700 | 400     | Regular → Bold                                                                      |
+| Ascender Height   | `YTAS` | 720 – 800 | 720     | Adjusts ascender and cap height for metric compatibility or visual preferences      |
+| Sharp             | `SHRP` | 0 – 100   | 0       | Softens (0) or sharpens (100) terminals and joins                                   |
+
+## Named Instances
+
+The following named instances are included as presets across two optical sizes and four GEOM levels:
+
+| Instance            | opsz | GEOM | wght |
+| :------------------ | :--- | :--- | :--- |
+| Regular             | 32   | 50   | 400  |
+| Medium              | 32   | 50   | 500  |
+| SemiBold            | 32   | 50   | 600  |
+| Bold                | 32   | 50   | 700  |
+| UI Regular          | 32   | 25   | 400  |
+| UI Medium           | 32   | 25   | 500  |
+| UI SemiBold         | 32   | 25   | 600  |
+| UI Bold             | 32   | 25   | 700  |
+| Geo Regular         | 32   | 100  | 400  |
+| Geo Medium          | 32   | 100  | 500  |
+| Geo SemiBold        | 32   | 100  | 600  |
+| Geo Bold            | 32   | 100  | 700  |
+| A11y Regular        | 32   | 0    | 400  |
+| A11y Medium         | 32   | 0    | 500  |
+| A11y SemiBold       | 32   | 0    | 600  |
+| A11y Bold           | 32   | 0    | 700  |
+| Text Regular        | 10   | 50   | 400  |
+| Text Medium         | 10   | 50   | 500  |
+| Text SemiBold       | 10   | 50   | 600  |
+| Text Bold           | 10   | 50   | 700  |
+| Text UI Regular     | 10   | 25   | 400  |
+| Text UI Medium      | 10   | 25   | 500  |
+| Text UI SemiBold    | 10   | 25   | 600  |
+| Text UI Bold        | 10   | 25   | 700  |
+| Text Geo Regular    | 10   | 100  | 400  |
+| Text Geo Medium     | 10   | 100  | 500  |
+| Text Geo SemiBold   | 10   | 100  | 600  |
+| Text Geo Bold       | 10   | 100  | 700  |
+| Text A11y Regular   | 10   | 0    | 400  |
+| Text A11y Medium    | 10   | 0    | 500  |
+| Text A11y SemiBold  | 10   | 0    | 600  |
+| Text A11y Bold      | 10   | 0    | 700  |
 
 ## Latin Language Support
 
