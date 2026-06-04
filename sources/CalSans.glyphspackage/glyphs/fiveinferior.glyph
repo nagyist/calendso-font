@@ -1,0 +1,507 @@
+{
+color = 0;
+glyphname = fiveinferior;
+layers = (
+{
+layerId = "0B84D982-BA46-4CB9-89EB-4BEFB54BBE92";
+shapes = (
+{
+ref = five;
+}
+);
+width = 606;
+},
+{
+layerId = m006;
+shapes = (
+{
+ref = five;
+}
+);
+width = 635;
+},
+{
+hints = (
+{
+horizontal = 1;
+origin = (0,32);
+target = (0,25);
+type = Stem;
+},
+{
+horizontal = 1;
+origin = (0,19);
+target = (0,5);
+type = Stem;
+},
+{
+horizontal = 1;
+origin = (0,11);
+target = (0,13);
+type = Stem;
+},
+{
+origin = (0,15);
+target = (0,10);
+type = Stem;
+},
+{
+origin = (0,22);
+target = (0,2);
+type = Stem;
+}
+);
+layerId = "F32A93D6-BEB9-4F11-B510-2860D42C0CD2";
+shapes = (
+{
+closed = 1;
+nodes = (
+(410,-13,o),
+(500,89,o),
+(500,220,cs),
+(500,341,o),
+(410,452,o),
+(267,452,cs),
+(228,452,o),
+(179,441,o),
+(152,426,c),
+(149,428,l),
+(149,680,l),
+(118,636,l),
+(463,636,l),
+(463,720,l),
+(61,720,l),
+(61,351,l),
+(137,317,l),
+(170,354,o),
+(205,370,o),
+(257,370,cs),
+(347,370,o),
+(410,303,o),
+(410,220,cs),
+(410,135,o),
+(348,70,o),
+(259,69,cs),
+(196,68,o),
+(155,98,o),
+(118,156,c),
+(40,118,l),
+(77,38,o),
+(172,-13,o),
+(258,-13,cs)
+);
+}
+);
+width = 525;
+},
+{
+layerId = "1B5AC656-48C3-4864-953F-2CD31E7BA751";
+shapes = (
+{
+ref = five;
+}
+);
+width = 539;
+},
+{
+associatedMasterId = "0B84D982-BA46-4CB9-89EB-4BEFB54BBE92";
+attr = {
+coordinates = (
+10,
+0,
+400,
+720,
+100,
+0
+);
+};
+layerId = "DF702BB4-96D9-4F33-B16D-BA465E36A019";
+name = "May 21, 26 at 05:38";
+shapes = (
+{
+ref = five;
+}
+);
+width = 609;
+},
+{
+associatedMasterId = m006;
+attr = {
+coordinates = (
+10,
+0,
+700,
+720,
+100,
+0
+);
+};
+layerId = "9D955762-F176-437F-9060-062032E35766";
+name = "May 21, 26 at 05:38";
+shapes = (
+{
+ref = five;
+}
+);
+width = 646;
+},
+{
+associatedMasterId = "F32A93D6-BEB9-4F11-B510-2860D42C0CD2";
+attr = {
+coordinates = (
+32,
+0,
+400,
+720,
+100,
+0
+);
+};
+hints = (
+{
+horizontal = 1;
+place = (-13,82);
+type = Stem;
+},
+{
+horizontal = 1;
+origin = (0,15);
+target = (0,16);
+type = Stem;
+},
+{
+horizontal = 1;
+origin = (0,11);
+target = (0,13);
+type = Stem;
+},
+{
+origin = (0,15);
+target = (0,10);
+type = Stem;
+},
+{
+origin = (0,12);
+target = (0,12);
+type = Stem;
+}
+);
+layerId = "5540CC1A-3F9E-416E-95BA-A78916258F64";
+name = "May 21, 26 at 05:38";
+shapes = (
+{
+closed = 1;
+nodes = (
+(421,-13,o),
+(511,89,o),
+(511,220,cs),
+(511,351,o),
+(411,449,o),
+(278,449,cs),
+(240,449,o),
+(207,441,o),
+(180,428,c),
+(180,428,l),
+(180,680,l),
+(146,636,l),
+(475,636,l),
+(475,720,l),
+(92,720,l),
+(92,312,l),
+(92,312,l),
+(148,351,o),
+(198,367,o),
+(268,367,cs),
+(355,367,o),
+(421,304,o),
+(421,220,cs),
+(421,135,o),
+(359,70,o),
+(270,69,cs),
+(207,68,o),
+(166,98,o),
+(129,156,c),
+(51,118,l),
+(88,38,o),
+(183,-13,o),
+(269,-13,cs)
+);
+}
+);
+width = 534;
+},
+{
+associatedMasterId = "1B5AC656-48C3-4864-953F-2CD31E7BA751";
+attr = {
+coordinates = (
+32,
+0,
+700,
+720,
+100,
+0
+);
+};
+layerId = "3A4B8F2F-09F9-4768-8ED1-A76F4D4D5E6C";
+name = "May 21, 26 at 05:38";
+shapes = (
+{
+ref = five;
+}
+);
+width = 555;
+},
+{
+layerId = "0DDD66F2-BE4C-471A-8E86-2163424A6CF0";
+shapes = (
+{
+ref = five;
+}
+);
+width = 539;
+},
+{
+associatedMasterId = "0DDD66F2-BE4C-471A-8E86-2163424A6CF0";
+attr = {
+coordinates = (
+32,
+0,
+700,
+720,
+100,
+1
+);
+};
+layerId = "42CAE9F6-DB96-4CD8-AEFB-DE9D46C774EA";
+name = "May 21, 26 at 05:38";
+shapes = (
+{
+ref = five;
+}
+);
+width = 555;
+},
+{
+hints = (
+{
+horizontal = 1;
+origin = (0,32);
+target = (0,25);
+type = Stem;
+},
+{
+horizontal = 1;
+origin = (0,19);
+target = (0,5);
+type = Stem;
+},
+{
+horizontal = 1;
+origin = (0,11);
+target = (0,13);
+type = Stem;
+},
+{
+origin = (0,15);
+target = (0,10);
+type = Stem;
+},
+{
+origin = (0,22);
+target = (0,2);
+type = Stem;
+}
+);
+layerId = "CC8ADC1C-440E-49BA-9C42-2F7F780CE9BF";
+shapes = (
+{
+closed = 1;
+nodes = (
+(410,-13,o),
+(500,89,o),
+(500,220,cs),
+(500,341,o),
+(410,452,o),
+(267,452,cs),
+(228,452,o),
+(179,441,o),
+(152,426,c),
+(149,428,l),
+(149,680,l),
+(118,636,l),
+(463,636,l),
+(463,720,l),
+(61,720,l),
+(61,351,l),
+(137,317,l),
+(170,354,o),
+(205,370,o),
+(257,370,cs),
+(347,370,o),
+(410,303,o),
+(410,220,cs),
+(410,135,o),
+(348,70,o),
+(259,69,cs),
+(196,68,o),
+(155,98,o),
+(118,156,c),
+(40,118,l),
+(77,38,o),
+(172,-13,o),
+(258,-13,cs)
+);
+}
+);
+width = 525;
+},
+{
+associatedMasterId = "CC8ADC1C-440E-49BA-9C42-2F7F780CE9BF";
+attr = {
+coordinates = (
+32,
+0,
+400,
+720,
+100,
+1
+);
+};
+hints = (
+{
+horizontal = 1;
+place = (-13,82);
+type = Stem;
+},
+{
+horizontal = 1;
+origin = (0,15);
+target = (0,16);
+type = Stem;
+},
+{
+horizontal = 1;
+origin = (0,11);
+target = (0,13);
+type = Stem;
+},
+{
+origin = (0,15);
+target = (0,10);
+type = Stem;
+},
+{
+origin = (0,12);
+target = (0,12);
+type = Stem;
+}
+);
+layerId = "F5D2CCD7-1961-42F1-90D5-D18FD100D803";
+name = "May 21, 26 at 05:38";
+shapes = (
+{
+closed = 1;
+nodes = (
+(421,-13,o),
+(511,89,o),
+(511,220,cs),
+(511,351,o),
+(411,449,o),
+(278,449,cs),
+(240,449,o),
+(207,441,o),
+(180,428,c),
+(180,428,l),
+(180,680,l),
+(146,636,l),
+(475,636,l),
+(475,720,l),
+(92,720,l),
+(92,312,l),
+(92,312,l),
+(148,351,o),
+(198,367,o),
+(268,367,cs),
+(355,367,o),
+(421,304,o),
+(421,220,cs),
+(421,135,o),
+(359,70,o),
+(270,69,cs),
+(207,68,o),
+(166,98,o),
+(129,156,c),
+(51,118,l),
+(88,38,o),
+(183,-13,o),
+(269,-13,cs)
+);
+}
+);
+width = 534;
+},
+{
+layerId = "FA9346B6-A16F-4CF3-996A-4A8FD0AD301D";
+shapes = (
+{
+ref = five;
+}
+);
+width = 635;
+},
+{
+associatedMasterId = "FA9346B6-A16F-4CF3-996A-4A8FD0AD301D";
+attr = {
+coordinates = (
+10,
+0,
+700,
+720,
+100,
+1
+);
+};
+layerId = "18A2EC99-9D85-4147-A083-ADA5B9363E8F";
+name = "May 21, 26 at 05:38";
+shapes = (
+{
+ref = five;
+}
+);
+width = 646;
+},
+{
+layerId = "33BF50A0-DEC8-4619-95BB-DD23FBD7FB0B";
+shapes = (
+{
+ref = five;
+}
+);
+width = 606;
+},
+{
+associatedMasterId = "33BF50A0-DEC8-4619-95BB-DD23FBD7FB0B";
+attr = {
+coordinates = (
+10,
+0,
+400,
+720,
+100,
+1
+);
+};
+layerId = "85F05E39-2F9B-4C7C-A2A9-B530B8BA1DDE";
+name = "May 21, 26 at 05:38";
+shapes = (
+{
+ref = five;
+}
+);
+width = 609;
+}
+);
+metricLeft = five;
+metricRight = five;
+unicode = 8325;
+}

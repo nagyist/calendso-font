@@ -1,0 +1,181 @@
+{
+glyphname = abreve.rcltBase;
+kernLeft = o;
+kernRight = u;
+layers = (
+{
+layerId = m006;
+shapes = (
+{
+ref = a.rcltBase;
+},
+{
+pos = (331,0);
+ref = brevecomb;
+}
+);
+width = 696;
+},
+{
+layerId = "0B84D982-BA46-4CB9-89EB-4BEFB54BBE92";
+shapes = (
+{
+ref = a.rcltBase;
+},
+{
+pos = (313,0);
+ref = brevecomb;
+}
+);
+width = 657;
+},
+{
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(444,562,o),
+(485,636,o),
+(485,717,c),
+(392,717,l),
+(392,690,o),
+(389,656,o),
+(358,656,cs),
+(335,656,o),
+(321,671,o),
+(302,687,cs),
+(282,703,o),
+(257,721,o),
+(211,721,cs),
+(138,721,o),
+(70,658,o),
+(70,570,c),
+(162,570,l),
+(162,598,o),
+(185,628,o),
+(211,628,cs),
+(233,628,o),
+(246,612,o),
+(266,596,cs),
+(287,579,o),
+(315,562,o),
+(357,562,cs)
+);
+}
+);
+};
+layerId = "1B5AC656-48C3-4864-953F-2CD31E7BA751";
+shapes = (
+{
+ref = a.rcltBase;
+},
+{
+pos = (314,0);
+ref = brevecomb;
+}
+);
+width = 631;
+},
+{
+layerId = "F32A93D6-BEB9-4F11-B510-2860D42C0CD2";
+shapes = (
+{
+ref = a.rcltBase;
+},
+{
+pos = (275,0);
+ref = brevecomb;
+}
+);
+width = 591;
+},
+{
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(444,562,o),
+(485,636,o),
+(485,717,c),
+(392,717,l),
+(392,690,o),
+(389,656,o),
+(358,656,cs),
+(335,656,o),
+(321,671,o),
+(302,687,cs),
+(282,703,o),
+(257,721,o),
+(211,721,cs),
+(138,721,o),
+(70,658,o),
+(70,570,c),
+(162,570,l),
+(162,598,o),
+(185,628,o),
+(211,628,cs),
+(233,628,o),
+(246,612,o),
+(266,596,cs),
+(287,579,o),
+(315,562,o),
+(357,562,cs)
+);
+}
+);
+};
+layerId = "0DDD66F2-BE4C-471A-8E86-2163424A6CF0";
+shapes = (
+{
+ref = a.rcltBase;
+},
+{
+pos = (314,0);
+ref = brevecomb;
+}
+);
+width = 631;
+},
+{
+layerId = "CC8ADC1C-440E-49BA-9C42-2F7F780CE9BF";
+shapes = (
+{
+ref = a.rcltBase;
+},
+{
+pos = (275,0);
+ref = brevecomb;
+}
+);
+width = 591;
+},
+{
+layerId = "FA9346B6-A16F-4CF3-996A-4A8FD0AD301D";
+shapes = (
+{
+ref = a.rcltBase;
+},
+{
+pos = (331,0);
+ref = brevecomb;
+}
+);
+width = 696;
+},
+{
+layerId = "33BF50A0-DEC8-4619-95BB-DD23FBD7FB0B";
+shapes = (
+{
+ref = a.rcltBase;
+},
+{
+pos = (313,0);
+ref = brevecomb;
+}
+);
+width = 657;
+}
+);
+}

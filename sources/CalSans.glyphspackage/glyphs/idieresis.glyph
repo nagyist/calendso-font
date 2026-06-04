@@ -1,0 +1,192 @@
+{
+glyphname = idieresis;
+kernLeft = i;
+kernRight = i;
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (150,529);
+},
+{
+name = top;
+pos = (150,720);
+}
+);
+layerId = m006;
+shapes = (
+{
+ref = idotless;
+},
+{
+pos = (162,0);
+ref = dieresiscomb;
+}
+);
+width = 302;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (127,514);
+},
+{
+name = top;
+pos = (127,720);
+}
+);
+layerId = "0B84D982-BA46-4CB9-89EB-4BEFB54BBE92";
+shapes = (
+{
+ref = idotless;
+},
+{
+pos = (135,-1);
+ref = dieresiscomb;
+}
+);
+width = 256;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (109,535);
+},
+{
+name = top;
+pos = (109,712);
+}
+);
+layerId = "1B5AC656-48C3-4864-953F-2CD31E7BA751";
+shapes = (
+{
+ref = idotless;
+},
+{
+pos = (110,0);
+ref = dieresiscomb;
+}
+);
+width = 219;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (86,520);
+},
+{
+name = top;
+pos = (86,712);
+}
+);
+layerId = "F32A93D6-BEB9-4F11-B510-2860D42C0CD2";
+shapes = (
+{
+ref = idotless;
+},
+{
+pos = (83,-1);
+ref = dieresiscomb;
+}
+);
+width = 170;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (154,535);
+},
+{
+name = top;
+pos = (183,712);
+}
+);
+layerId = "0DDD66F2-BE4C-471A-8E86-2163424A6CF0";
+shapes = (
+{
+ref = idotless;
+},
+{
+pos = (110,0);
+ref = dieresiscomb;
+}
+);
+width = 219;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (130,520);
+},
+{
+name = top;
+pos = (162,712);
+}
+);
+layerId = "CC8ADC1C-440E-49BA-9C42-2F7F780CE9BF";
+shapes = (
+{
+ref = idotless;
+},
+{
+pos = (83,-1);
+ref = dieresiscomb;
+}
+);
+width = 170;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (194,529);
+},
+{
+name = top;
+pos = (226,720);
+}
+);
+layerId = "FA9346B6-A16F-4CF3-996A-4A8FD0AD301D";
+shapes = (
+{
+ref = idotless;
+},
+{
+pos = (162,0);
+ref = dieresiscomb;
+}
+);
+width = 302;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (170,514);
+},
+{
+name = top;
+pos = (204,720);
+}
+);
+layerId = "33BF50A0-DEC8-4619-95BB-DD23FBD7FB0B";
+shapes = (
+{
+ref = idotless;
+},
+{
+pos = (135,-1);
+ref = dieresiscomb;
+}
+);
+width = 256;
+}
+);
+unicode = 239;
+}

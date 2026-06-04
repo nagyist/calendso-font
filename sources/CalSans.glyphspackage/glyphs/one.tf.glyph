@@ -1,0 +1,222 @@
+{
+glyphname = one.tf;
+layers = (
+{
+hints = (
+{
+horizontal = 1;
+place = (-1,130);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (731,-20);
+target = down;
+type = TopGhost;
+},
+{
+place = (257,142);
+type = Stem;
+}
+);
+layerId = m006;
+shapes = (
+{
+pos = (43,0);
+ref = one;
+},
+{
+pos = (-11,0);
+ref = onebottom.part;
+}
+);
+width = 637;
+},
+{
+hints = (
+{
+horizontal = 1;
+place = (0,78);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (733,-20);
+target = down;
+type = TopGhost;
+},
+{
+place = (287,91);
+type = Stem;
+}
+);
+layerId = "0B84D982-BA46-4CB9-89EB-4BEFB54BBE92";
+shapes = (
+{
+pos = (46,0);
+ref = one;
+},
+{
+pos = (-3,0);
+ref = onebottom.part;
+}
+);
+width = 643;
+},
+{
+layerId = "1B5AC656-48C3-4864-953F-2CD31E7BA751";
+shapes = (
+{
+alignment = -1;
+pos = (54,0);
+ref = one;
+},
+{
+pos = (3,0);
+ref = onebottom.part;
+}
+);
+width = 558;
+},
+{
+hints = (
+{
+horizontal = 1;
+place = (0,78);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (0,-20);
+target = down;
+type = TopGhost;
+},
+{
+place = (28,-53);
+type = Stem;
+}
+);
+layerId = "F32A93D6-BEB9-4F11-B510-2860D42C0CD2";
+shapes = (
+{
+alignment = -1;
+pos = (44,0);
+ref = one;
+},
+{
+ref = onebottom.part;
+}
+);
+width = 560;
+},
+{
+layerId = "0DDD66F2-BE4C-471A-8E86-2163424A6CF0";
+shapes = (
+{
+alignment = -1;
+pos = (54,0);
+ref = one;
+},
+{
+pos = (3,0);
+ref = onebottom.part;
+}
+);
+width = 558;
+},
+{
+hints = (
+{
+horizontal = 1;
+place = (0,78);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (0,-20);
+target = down;
+type = TopGhost;
+},
+{
+place = (28,-53);
+type = Stem;
+}
+);
+layerId = "CC8ADC1C-440E-49BA-9C42-2F7F780CE9BF";
+shapes = (
+{
+alignment = -1;
+pos = (44,0);
+ref = one;
+},
+{
+ref = onebottom.part;
+}
+);
+width = 560;
+},
+{
+hints = (
+{
+horizontal = 1;
+place = (-1,130);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (731,-20);
+target = down;
+type = TopGhost;
+},
+{
+place = (257,142);
+type = Stem;
+}
+);
+layerId = "FA9346B6-A16F-4CF3-996A-4A8FD0AD301D";
+shapes = (
+{
+pos = (43,0);
+ref = one;
+},
+{
+pos = (-11,0);
+ref = onebottom.part;
+}
+);
+width = 637;
+},
+{
+hints = (
+{
+horizontal = 1;
+place = (0,78);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (733,-20);
+target = down;
+type = TopGhost;
+},
+{
+place = (287,91);
+type = Stem;
+}
+);
+layerId = "33BF50A0-DEC8-4619-95BB-DD23FBD7FB0B";
+shapes = (
+{
+pos = (46,0);
+ref = one;
+},
+{
+pos = (-3,0);
+ref = onebottom.part;
+}
+);
+width = 643;
+}
+);
+metricWidth = plus;
+}
