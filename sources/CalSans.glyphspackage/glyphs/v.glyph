@@ -2169,12 +2169,12 @@ italify.stemId = (
 "90FDCB56-AA39-4D90-83FE-3BFBDE39C155"
 );
 }),
-(220,126,o,{
+(222,126,o,{
 italify.stemId = (
 "90FDCB56-AA39-4D90-83FE-3BFBDE39C155"
 );
 }),
-(206,95,c,{
+(209,95,c,{
 italify.stemCorner = (
 "90FDCB56-AA39-4D90-83FE-3BFBDE39C155"
 );
@@ -2182,7 +2182,7 @@ italify.stemId = (
 "90FDCB56-AA39-4D90-83FE-3BFBDE39C155"
 );
 }),
-(210,95,l,{
+(213,95,l,{
 italify.stemCorner = (
 "E18D3BE2-A476-4212-85F1-05D8FEE62D75"
 );
@@ -2190,7 +2190,7 @@ italify.stemId = (
 "E18D3BE2-A476-4212-85F1-05D8FEE62D75"
 );
 }),
-(208,126,o,{
+(210,126,o,{
 italify.stemId = (
 "E18D3BE2-A476-4212-85F1-05D8FEE62D75"
 );
@@ -2307,17 +2307,17 @@ italify.stemId = (
 "90FDCB56-AA39-4D90-83FE-3BFBDE39C155"
 );
 }),
-(232,229,o,{
+(232,230,o,{
 italify.stemId = (
 "90FDCB56-AA39-4D90-83FE-3BFBDE39C155"
 );
 }),
-(213,197,o,{
+(215,197,o,{
 italify.stemId = (
 "90FDCB56-AA39-4D90-83FE-3BFBDE39C155"
 );
 }),
-(205,181,c,{
+(207,181,c,{
 italify.stemCorner = (
 "90FDCB56-AA39-4D90-83FE-3BFBDE39C155"
 );
@@ -2325,13 +2325,13 @@ italify.stemId = (
 "90FDCB56-AA39-4D90-83FE-3BFBDE39C155"
 );
 }),
-(205,181,l),
-(201,197,o,{
+(207,181,l),
+(203,197,o,{
 italify.stemId = (
 "90FDCB56-AA39-4D90-83FE-3BFBDE39C155"
 );
 }),
-(195,229,o,{
+(196,229,o,{
 italify.stemId = (
 "E18D3BE2-A476-4212-85F1-05D8FEE62D75"
 );
@@ -2877,12 +2877,12 @@ italify.stemId = (
 "90FDCB56-AA39-4D90-83FE-3BFBDE39C155"
 );
 }),
-(301,275,o,{
+(302,275,o,{
 italify.stemId = (
 "90FDCB56-AA39-4D90-83FE-3BFBDE39C155"
 );
 }),
-(293,253,c,{
+(294,253,c,{
 italify.stemCorner = (
 "90FDCB56-AA39-4D90-83FE-3BFBDE39C155"
 );
@@ -2890,7 +2890,7 @@ italify.stemId = (
 "90FDCB56-AA39-4D90-83FE-3BFBDE39C155"
 );
 }),
-(286,253,l,{
+(287,253,l,{
 italify.stemCorner = (
 "E18D3BE2-A476-4212-85F1-05D8FEE62D75"
 );
@@ -2898,7 +2898,7 @@ italify.stemId = (
 "E18D3BE2-A476-4212-85F1-05D8FEE62D75"
 );
 }),
-(284,275,o,{
+(285,275,o,{
 italify.stemId = (
 "E18D3BE2-A476-4212-85F1-05D8FEE62D75"
 );
@@ -3310,12 +3310,12 @@ italify.stemId = (
 "90FDCB56-AA39-4D90-83FE-3BFBDE39C155"
 );
 }),
-(255,192,o,{
+(256,192,o,{
 italify.stemId = (
 "90FDCB56-AA39-4D90-83FE-3BFBDE39C155"
 );
 }),
-(242,161,c,{
+(243,161,c,{
 italify.stemCorner = (
 "90FDCB56-AA39-4D90-83FE-3BFBDE39C155"
 );
@@ -3323,7 +3323,7 @@ italify.stemId = (
 "90FDCB56-AA39-4D90-83FE-3BFBDE39C155"
 );
 }),
-(235,161,l,{
+(236,161,l,{
 italify.stemCorner = (
 "E18D3BE2-A476-4212-85F1-05D8FEE62D75"
 );
@@ -3331,7 +3331,7 @@ italify.stemId = (
 "E18D3BE2-A476-4212-85F1-05D8FEE62D75"
 );
 }),
-(231,192,o,{
+(232,192,o,{
 italify.stemId = (
 "E18D3BE2-A476-4212-85F1-05D8FEE62D75"
 );

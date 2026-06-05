@@ -62,7 +62,7 @@ shapes = (
 ref = a.alt;
 },
 {
-pos = (388,0);
+pos = (372,0);
 ref = ogonekcomb;
 }
 );

@@ -257,7 +257,7 @@ name = vendorID;
 value = WORD;
 }
 );
-date = "2026-06-02 21:04:41 +0000";
+date = "2026-06-05 05:49:30 +0000";
 familyName = "Cal Sans";
 featurePrefixes = (
 {
@@ -3706,7 +3706,7 @@ instances = (
 customParameters = (
 {
 name = fileName;
-value = "CalSans-VariableFont 1.992 [opsz,wght,GEOM,YTAS,SHRP]";
+value = "CalSans-VariableFont 1.993 [opsz,wght,GEOM,YTAS,SHRP,ital]";
 },
 {
 name = "Remove Glyphs";
@@ -3820,7 +3820,7 @@ value = "Cal Sans";
 },
 {
 key = uniqueID;
-value = "1992-CalSansWORD-2026-06-04";
+value = "1993-CalSansWORD-2026-06-04";
 },
 {
 key = variationsPostScriptNamePrefix;
@@ -14538,6 +14538,7 @@ onesuperior.ss10
 );
 }
 );
+exports = 0;
 instanceInterpolations = {
 "0B84D982-BA46-4CB9-89EB-4BEFB54BBE92" = 1.09091;
 "F32A93D6-BEB9-4F11-B510-2860D42C0CD2" = -0.09091;
@@ -14762,6 +14763,7 @@ onesuperior.ss10
 );
 }
 );
+exports = 0;
 instanceInterpolations = {
 "0B84D982-BA46-4CB9-89EB-4BEFB54BBE92" = 0.79636;
 "1B5AC656-48C3-4864-953F-2CD31E7BA751" = -0.02455;
@@ -14989,6 +14991,7 @@ onesuperior.ss10
 );
 }
 );
+exports = 0;
 instanceInterpolations = {
 "0B84D982-BA46-4CB9-89EB-4BEFB54BBE92" = 0.29091;
 "1B5AC656-48C3-4864-953F-2CD31E7BA751" = -0.06667;
@@ -15207,6 +15210,7 @@ onesuperior.ss10
 );
 }
 );
+exports = 0;
 instanceInterpolations = {
 "1B5AC656-48C3-4864-953F-2CD31E7BA751" = -0.09091;
 m006 = 1.09091;
@@ -15372,6 +15376,7 @@ onesuperior.ss10
 );
 }
 );
+exports = 0;
 instanceInterpolations = {
 "0B84D982-BA46-4CB9-89EB-4BEFB54BBE92" = 1.09091;
 "F32A93D6-BEB9-4F11-B510-2860D42C0CD2" = -0.09091;
@@ -15543,6 +15548,7 @@ onesuperior.ss10
 );
 }
 );
+exports = 0;
 instanceInterpolations = {
 "0B84D982-BA46-4CB9-89EB-4BEFB54BBE92" = 0.79636;
 "1B5AC656-48C3-4864-953F-2CD31E7BA751" = -0.02455;
@@ -15717,6 +15723,7 @@ onesuperior.ss10
 );
 }
 );
+exports = 0;
 instanceInterpolations = {
 "0B84D982-BA46-4CB9-89EB-4BEFB54BBE92" = 0.29091;
 "1B5AC656-48C3-4864-953F-2CD31E7BA751" = -0.06667;
@@ -15882,6 +15889,7 @@ onesuperior.ss10
 );
 }
 );
+exports = 0;
 instanceInterpolations = {
 "1B5AC656-48C3-4864-953F-2CD31E7BA751" = -0.09091;
 m006 = 1.09091;
@@ -16100,6 +16108,7 @@ onesuperior.ss10
 );
 }
 );
+exports = 0;
 instanceInterpolations = {
 "0B84D982-BA46-4CB9-89EB-4BEFB54BBE92" = 1.09091;
 "F32A93D6-BEB9-4F11-B510-2860D42C0CD2" = -0.09091;
@@ -16324,6 +16333,7 @@ onesuperior.ss10
 );
 }
 );
+exports = 0;
 instanceInterpolations = {
 "0B84D982-BA46-4CB9-89EB-4BEFB54BBE92" = 0.79636;
 "1B5AC656-48C3-4864-953F-2CD31E7BA751" = -0.02455;
@@ -16551,6 +16561,7 @@ onesuperior.ss10
 );
 }
 );
+exports = 0;
 instanceInterpolations = {
 "0B84D982-BA46-4CB9-89EB-4BEFB54BBE92" = 0.29091;
 "1B5AC656-48C3-4864-953F-2CD31E7BA751" = -0.06667;
@@ -16769,6 +16780,7 @@ onesuperior.ss10
 );
 }
 );
+exports = 0;
 instanceInterpolations = {
 "1B5AC656-48C3-4864-953F-2CD31E7BA751" = -0.09091;
 m006 = 1.09091;
@@ -17034,6 +17046,7 @@ onesuperior.ss10
 );
 }
 );
+exports = 0;
 instanceInterpolations = {
 "0B84D982-BA46-4CB9-89EB-4BEFB54BBE92" = 1.09091;
 "F32A93D6-BEB9-4F11-B510-2860D42C0CD2" = -0.09091;
@@ -17305,6 +17318,7 @@ onesuperior.ss10
 );
 }
 );
+exports = 0;
 instanceInterpolations = {
 "0B84D982-BA46-4CB9-89EB-4BEFB54BBE92" = 0.79636;
 "1B5AC656-48C3-4864-953F-2CD31E7BA751" = -0.02455;
@@ -17579,6 +17593,7 @@ onesuperior.ss10
 );
 }
 );
+exports = 0;
 instanceInterpolations = {
 "0B84D982-BA46-4CB9-89EB-4BEFB54BBE92" = 0.29091;
 "1B5AC656-48C3-4864-953F-2CD31E7BA751" = -0.06667;
@@ -17740,6 +17755,7 @@ value = (
 );
 }
 );
+exports = 0;
 instanceInterpolations = {
 "1B5AC656-48C3-4864-953F-2CD31E7BA751" = -0.09091;
 m006 = 1.09091;
@@ -17958,6 +17974,7 @@ onesuperior.ss10
 );
 }
 );
+exports = 0;
 instanceInterpolations = {
 "33BF50A0-DEC8-4619-95BB-DD23FBD7FB0B" = 1.09091;
 "CC8ADC1C-440E-49BA-9C42-2F7F780CE9BF" = -0.09091;
@@ -18184,6 +18201,7 @@ onesuperior.ss10
 );
 }
 );
+exports = 0;
 instanceInterpolations = {
 "0DDD66F2-BE4C-471A-8E86-2163424A6CF0" = -0.02455;
 "33BF50A0-DEC8-4619-95BB-DD23FBD7FB0B" = 0.79636;
@@ -18413,6 +18431,7 @@ onesuperior.ss10
 );
 }
 );
+exports = 0;
 instanceInterpolations = {
 "0DDD66F2-BE4C-471A-8E86-2163424A6CF0" = -0.06667;
 "33BF50A0-DEC8-4619-95BB-DD23FBD7FB0B" = 0.29091;
@@ -18633,6 +18652,7 @@ onesuperior.ss10
 );
 }
 );
+exports = 0;
 instanceInterpolations = {
 "0DDD66F2-BE4C-471A-8E86-2163424A6CF0" = -0.09091;
 "FA9346B6-A16F-4CF3-996A-4A8FD0AD301D" = 1.09091;
@@ -18799,6 +18819,7 @@ onesuperior.ss10
 );
 }
 );
+exports = 0;
 instanceInterpolations = {
 "33BF50A0-DEC8-4619-95BB-DD23FBD7FB0B" = 1.09091;
 "CC8ADC1C-440E-49BA-9C42-2F7F780CE9BF" = -0.09091;
@@ -18972,6 +18993,7 @@ onesuperior.ss10
 );
 }
 );
+exports = 0;
 instanceInterpolations = {
 "0DDD66F2-BE4C-471A-8E86-2163424A6CF0" = -0.02455;
 "33BF50A0-DEC8-4619-95BB-DD23FBD7FB0B" = 0.79636;
@@ -19148,6 +19170,7 @@ onesuperior.ss10
 );
 }
 );
+exports = 0;
 instanceInterpolations = {
 "0DDD66F2-BE4C-471A-8E86-2163424A6CF0" = -0.06667;
 "33BF50A0-DEC8-4619-95BB-DD23FBD7FB0B" = 0.29091;
@@ -19315,6 +19338,7 @@ onesuperior.ss10
 );
 }
 );
+exports = 0;
 instanceInterpolations = {
 "0DDD66F2-BE4C-471A-8E86-2163424A6CF0" = -0.09091;
 "FA9346B6-A16F-4CF3-996A-4A8FD0AD301D" = 1.09091;
@@ -19534,6 +19558,7 @@ onesuperior.ss10
 );
 }
 );
+exports = 0;
 instanceInterpolations = {
 "33BF50A0-DEC8-4619-95BB-DD23FBD7FB0B" = 1.09091;
 "CC8ADC1C-440E-49BA-9C42-2F7F780CE9BF" = -0.09091;
@@ -19760,6 +19785,7 @@ onesuperior.ss10
 );
 }
 );
+exports = 0;
 instanceInterpolations = {
 "0DDD66F2-BE4C-471A-8E86-2163424A6CF0" = -0.02455;
 "33BF50A0-DEC8-4619-95BB-DD23FBD7FB0B" = 0.79636;
@@ -19989,6 +20015,7 @@ onesuperior.ss10
 );
 }
 );
+exports = 0;
 instanceInterpolations = {
 "0DDD66F2-BE4C-471A-8E86-2163424A6CF0" = -0.06667;
 "33BF50A0-DEC8-4619-95BB-DD23FBD7FB0B" = 0.29091;
@@ -20209,6 +20236,7 @@ onesuperior.ss10
 );
 }
 );
+exports = 0;
 instanceInterpolations = {
 "0DDD66F2-BE4C-471A-8E86-2163424A6CF0" = -0.09091;
 "FA9346B6-A16F-4CF3-996A-4A8FD0AD301D" = 1.09091;
@@ -20475,6 +20503,7 @@ onesuperior.ss10
 );
 }
 );
+exports = 0;
 instanceInterpolations = {
 "33BF50A0-DEC8-4619-95BB-DD23FBD7FB0B" = 1.09091;
 "CC8ADC1C-440E-49BA-9C42-2F7F780CE9BF" = -0.09091;
@@ -20748,6 +20777,7 @@ onesuperior.ss10
 );
 }
 );
+exports = 0;
 instanceInterpolations = {
 "0DDD66F2-BE4C-471A-8E86-2163424A6CF0" = -0.02455;
 "33BF50A0-DEC8-4619-95BB-DD23FBD7FB0B" = 0.79636;
@@ -21024,6 +21054,7 @@ onesuperior.ss10
 );
 }
 );
+exports = 0;
 instanceInterpolations = {
 "0DDD66F2-BE4C-471A-8E86-2163424A6CF0" = -0.06667;
 "33BF50A0-DEC8-4619-95BB-DD23FBD7FB0B" = 0.29091;
@@ -21187,6 +21218,7 @@ value = (
 );
 }
 );
+exports = 0;
 instanceInterpolations = {
 "0DDD66F2-BE4C-471A-8E86-2163424A6CF0" = -0.09091;
 "FA9346B6-A16F-4CF3-996A-4A8FD0AD301D" = 1.09091;
@@ -41944,7 +41976,7 @@ value = WORD;
 },
 {
 key = versionString;
-value = "1.992";
+value = "1.993";
 }
 );
 stems = (
@@ -42086,5 +42118,5 @@ tH = "43";
 };
 };
 versionMajor = 1;
-versionMinor = 992;
+versionMinor = 993;
 }
