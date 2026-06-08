@@ -604,12 +604,12 @@ nodes = (
 hints = (
 {
 horizontal = 1;
-origin = (0,15);
+origin = (0,3);
 target = (0,6);
 type = Stem;
 },
 {
-origin = (0,12);
+origin = (0,0);
 target = (0,10);
 type = Stem;
 }
@@ -726,7 +726,7 @@ nodes = (
 hints = (
 {
 horizontal = 1;
-origin = (0,15);
+origin = (0,3);
 target = (0,6);
 type = Stem;
 },
@@ -908,7 +908,7 @@ nodes = (
 hints = (
 {
 horizontal = 1;
-origin = (0,15);
+origin = (0,3);
 target = (0,6);
 type = Stem;
 },
@@ -920,7 +920,7 @@ type = TopGhost;
 },
 {
 origin = (0,10);
-target = (0,12);
+target = (0,0);
 type = Stem;
 }
 );
@@ -1035,7 +1035,7 @@ ref = l.rcltA11y;
 hints = (
 {
 horizontal = 1;
-origin = (0,15);
+origin = (0,3);
 target = (0,6);
 type = Stem;
 },
@@ -1047,7 +1047,7 @@ type = TopGhost;
 },
 {
 origin = (0,10);
-target = (0,12);
+target = (0,0);
 type = Stem;
 }
 );

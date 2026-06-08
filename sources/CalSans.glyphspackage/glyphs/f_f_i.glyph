@@ -162,6 +162,7 @@ shapes = (
 ref = fpart.comb;
 },
 {
+alignment = -1;
 piece = {
 width = 819;
 };

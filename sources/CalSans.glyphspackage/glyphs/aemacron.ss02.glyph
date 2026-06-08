@@ -37,7 +37,7 @@ shapes = (
 ref = aemacron;
 }
 );
-width = 943;
+width = 951;
 },
 {
 layerId = "0DDD66F2-BE4C-471A-8E86-2163424A6CF0";
@@ -64,7 +64,7 @@ shapes = (
 ref = aemacron;
 }
 );
-width = 957;
+width = 956;
 },
 {
 layerId = "33BF50A0-DEC8-4619-95BB-DD23FBD7FB0B";
@@ -73,7 +73,7 @@ shapes = (
 ref = aemacron;
 }
 );
-width = 973;
+width = 969;
 }
 );
 }

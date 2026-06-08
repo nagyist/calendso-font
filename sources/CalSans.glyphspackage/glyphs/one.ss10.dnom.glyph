@@ -1,4 +1,5 @@
 {
+export = 0;
 glyphname = one.ss10.dnom;
 kernLeft = one.dnom;
 kernRight = one.dnom;

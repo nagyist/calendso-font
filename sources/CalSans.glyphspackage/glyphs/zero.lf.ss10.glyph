@@ -10,7 +10,7 @@ shapes = (
 ref = zero.lf.rcltGeo;
 }
 );
-width = 640;
+width = 648;
 },
 {
 layerId = m006;

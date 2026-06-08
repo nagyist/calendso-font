@@ -84,7 +84,7 @@ name = Denominators;
 },
 {
 automatic = 1;
-code = "A Aacute Abreve Abreveacute Abrevedotbelow Abrevegrave Abrevehookabove Abrevetilde Acircumflex Acircumflexacute Acircumflexdotbelow Acircumflexgrave Acircumflexhookabove Acircumflextilde Adieresis Adotbelow Agrave Ahookabove Ainvertedbreve Amacron Aogonek Aring Atilde AE AEmacron B C Cacute Ccaron Ccedilla Ccircumflex Cdotaccent D Dcaron Dcroat Ddotbelow Eth E Eacute Ecaron Ecircumflex Ecircumflexacute Ecircumflexdotbelow Ecircumflexgrave Ecircumflexhookabove Ecircumflextilde Edieresis Edotaccent Edotbelow Egrave Ehookabove Einvertedbreve Emacron Eogonek Etilde Schwa F Fhook G Gbreve Gcircumflex Gcommaaccent Gdotaccent Gmacron H Hbar Hbrevebelow Hcircumflex Hdotbelow I IJ Iacute Icircumflex Idieresis Idotaccent Idotbelow Igrave Ihookabove Iinvertedbreve Imacron Iogonek Itilde J Jacute Jcircumflex K Kcommaaccent Kmacronbelow L Lacute Lcaron Lcommaaccent Ldot Ldotbelow Ldotbelowmacron Lmacronbelow Lslash M Mdotaccent Mdotbelow N Nacute Ncaron Ncommaaccent Ndotaccent Ndotbelow Nmacronbelow Ntilde Eng O Oacute Ocircumflex Ocircumflexacute Ocircumflexdotbelow Ocircumflexgrave Ocircumflexhookabove Ocircumflextilde Odieresis Odotbelow Ograve Ohookabove Ohorn Ohornacute Ohorndotbelow Ohorngrave Ohornhookabove Ohorntilde Ohungarumlaut Oinvertedbreve Omacron Oslash Otilde OE P Thorn Q R Racute Rcaron Rcommaaccent Rdotbelowmacron Rinvertedbreve Rmacronbelow S Sacute Scaron Scedilla Scircumflex Scommaaccent Sdotbelow Germandbls T Tbar Tcaron Tcedilla Tcommaaccent Tdotbelow Tmacronbelow U Uacute Ubreve Ucircumflex Udieresis Udotbelow Ugrave Uhookabove Uhorn Uhornacute Uhorndotbelow Uhorngrave Uhornhookabove Uhorntilde Uhungarumlaut Uinvertedbreve Umacron Uogonek Uring Utilde V W Wacute Wcircumflex Wdieresis Wgrave X Y Yacute Ycircumflex Ydieresis Ydotaccent Ydotbelow Ygrave Yhookabove Ytilde Z Zacute Zcaron Zdotaccent Zdotbelow Zmacronbelow Saltillo Lcommaaccent.loclMAH Ncommaaccent.loclMAH I.rcltA11y IJ.rcltA11y Iacute.rcltA11y Icircumflex.rcltA11y Idieresis.rcltA11y Idotaccent.rcltA11y Idotbelow.rcltA11y Igrave.rcltA11y Ihookabove.rcltA11y Iinvertedbreve.rcltA11y Imacron.rcltA11y Iogonek.rcltA11y Itilde.rcltA11y C.rcltGeo Cacute.rcltGeo Ccaron.rcltGeo Ccedilla.rcltGeo Ccircumflex.rcltGeo Cdotaccent.rcltGeo M.rcltGeo Mdotaccent.rcltGeo Mdotbelow.rcltGeo Eng.rcltGeo G.rcltUI Gbreve.rcltUI Gcircumflex.rcltUI Gcommaaccent.rcltUI Gdotaccent.rcltUI Gmacron.rcltUI G.ss06 Gbreve.ss06 Gcircumflex.ss06 Gcommaaccent.ss06 Gdotaccent.ss06 Gmacron.ss06 M.ss09 Mdotaccent.ss09 Mdotbelow.ss09 C.ss10 Cacute.ss10 Ccaron.ss10 Ccedilla.ss10 Ccircumflex.ss10 Cdotaccent.ss10 Eng.ss10 I.ss14 IJ.ss14 Iacute.ss14 Icircumflex.ss14 Idieresis.ss14 Idotaccent.ss14 Idotbelow.ss14 Igrave.ss14 Ihookabove.ss14 Iinvertedbreve.ss14 Imacron.ss14 Iogonek.ss14 Itilde.ss14 a aacute abreve abreveacute abrevedotbelow abrevegrave abrevehookabove abrevetilde acircumflex acircumflexacute acircumflexdotbelow acircumflexgrave acircumflexhookabove acircumflextilde adieresis adotbelow agrave ahookabove ainvertedbreve amacron aogonek aring atilde ae aemacron b c cacute ccaron ccedilla ccircumflex cdotaccent d dcaron dcroat ddotbelow eth e eacute ecaron ecircumflex ecircumflexacute ecircumflexdotbelow ecircumflexgrave ecircumflexhookabove ecircumflextilde edieresis edotaccent edotbelow egrave ehookabove einvertedbreve emacron eogonek etilde schwa f g gbreve gcircumflex gcommaaccent gdotaccent gmacron h hbar hbrevebelow hcircumflex hdotbelow hmacronbelow i idotless iacute icircumflex idieresis idotaccent idotbelow igrave ihookabove iinvertedbreve imacron iogonek itilde ij j jdotless jacute jcircumflex k kcommaaccent kgreenlandic kmacronbelow l lacute lcaron lcommaaccent ldot ldotbelow ldotbelowmacron lmacronbelow lslash m mdotaccent mdotbelow n nacute ncaron ncommaaccent ndotaccent ndotbelow nmacronbelow ntilde eng o oacute ocircumflex ocircumflexacute ocircumflexdotbelow ocircumflexgrave ocircumflexhookabove ocircumflextilde odieresis odotbelow ograve ohookabove ohorn ohornacute ohorndotbelow ohorngrave ohornhookabove ohorntilde ohungarumlaut oinvertedbreve omacron oslash otilde oe p thorn q r racute rcaron rcommaaccent rdotbelowmacron rinvertedbreve rmacronbelow s sacute scaron scedilla scircumflex scommaaccent sdotbelow germandbls t tbar tcaron tcedilla tcommaaccent tdotbelow tmacronbelow u uacute ubreve ucircumflex udieresis udieresisacute udieresiscaron udieresisgrave udieresismacron udotbelow ugrave uhookabove uhorn uhornacute uhorndotbelow uhorngrave uhornhookabove uhorntilde uhungarumlaut uinvertedbreve umacron uogonek uring utilde v w wacute wcircumflex wdieresis wgrave x y yacute ycircumflex ydieresis ydotaccent ydotbelow ygrave yhookabove ytilde z zacute zcaron zdotaccent zdotbelow zmacronbelow saltillo a.alt aacute.alt abreve.alt abreveacute.alt abrevedotbelow.alt abrevegrave.alt abrevehookabove.alt abrevetilde.alt acircumflex.alt acircumflexacute.alt acircumflexdotbelow.alt acircumflexgrave.alt acircumflexhookabove.alt acircumflextilde.alt adieresis.alt adotbelow.alt agrave.alt ahookabove.alt ainvertedbreve.alt amacron.alt aogonek.alt aring.alt atilde.alt lcommaaccent.loclMAH ncommaaccent.loclMAH a.rcltA11y aacute.rcltA11y abreve.rcltA11y abreveacute.rcltA11y abrevedotbelow.rcltA11y abrevegrave.rcltA11y abrevehookabove.rcltA11y abrevetilde.rcltA11y acircumflex.rcltA11y acircumflexacute.rcltA11y acircumflexdotbelow.rcltA11y acircumflexgrave.rcltA11y acircumflexhookabove.rcltA11y acircumflextilde.rcltA11y adieresis.rcltA11y adotbelow.rcltA11y agrave.rcltA11y ahookabove.rcltA11y ainvertedbreve.rcltA11y amacron.rcltA11y aogonek.rcltA11y aring.rcltA11y atilde.rcltA11y g.rcltA11y gbreve.rcltA11y gcircumflex.rcltA11y gcommaaccent.rcltA11y gdotaccent.rcltA11y gmacron.rcltA11y l.rcltA11y lacute.rcltA11y lcaron.rcltA11y lcommaaccent.rcltA11y ldot.rcltA11y ldotbelow.rcltA11y ldotbelowmacron.rcltA11y lmacronbelow.rcltA11y lslash.rcltA11y a.rcltBase aacute.rcltBase abreve.rcltBase abreveacute.rcltBase abrevedotbelow.rcltBase abrevegrave.rcltBase abrevehookabove.rcltBase abrevetilde.rcltBase acircumflex.rcltBase acircumflexacute.rcltBase acircumflexdotbelow.rcltBase acircumflexgrave.rcltBase acircumflexhookabove.rcltBase acircumflextilde.rcltBase adieresis.rcltBase adotbelow.rcltBase agrave.rcltBase ahookabove.rcltBase ainvertedbreve.rcltBase amacron.rcltBase aogonek.rcltBase aring.rcltBase atilde.rcltBase ae.rcltBase aemacron.rcltBase f.rcltBase ij.rcltBase j.rcltBase jdotless.rcltBase jacute.rcltBase jcircumflex.rcltBase t.rcltBase tbar.rcltBase tcaron.rcltBase tcedilla.rcltBase tcommaaccent.rcltBase tdotbelow.rcltBase tmacronbelow.rcltBase y.rcltBase yacute.rcltBase ycircumflex.rcltBase ydieresis.rcltBase ydotaccent.rcltBase ydotbelow.rcltBase ygrave.rcltBase yhookabove.rcltBase ytilde.rcltBase c.rcltGeo cacute.rcltGeo ccaron.rcltGeo ccedilla.rcltGeo ccircumflex.rcltGeo cdotaccent.rcltGeo ij.rcltGeo j.rcltGeo jdotless.rcltGeo jacute.rcltGeo jcircumflex.rcltGeo eng.rcltGeo t.rcltGeo tbar.rcltGeo tcaron.rcltGeo tcedilla.rcltGeo tcommaaccent.rcltGeo tdotbelow.rcltGeo tmacronbelow.rcltGeo u.rcltGeo uacute.rcltGeo ubreve.rcltGeo ucircumflex.rcltGeo udieresis.rcltGeo udieresisacute.rcltGeo udieresiscaron.rcltGeo udieresisgrave.rcltGeo udieresismacron.rcltGeo udotbelow.rcltGeo ugrave.rcltGeo uhookabove.rcltGeo uhorn.rcltGeo uhornacute.rcltGeo uhorndotbelow.rcltGeo uhorngrave.rcltGeo uhornhookabove.rcltGeo uhorntilde.rcltGeo uhungarumlaut.rcltGeo uinvertedbreve.rcltGeo umacron.rcltGeo uogonek.rcltGeo uring.rcltGeo utilde.rcltGeo y.rcltGeo yacute.rcltGeo ycircumflex.rcltGeo ydieresis.rcltGeo ydotaccent.rcltGeo ydotbelow.rcltGeo ygrave.rcltGeo yhookabove.rcltGeo ytilde.rcltGeo a.ss01 aacute.ss01 abreve.ss01 abreveacute.ss01 abrevedotbelow.ss01 abrevegrave.ss01 abrevehookabove.ss01 abrevetilde.ss01 acircumflex.ss01 acircumflexacute.ss01 acircumflexdotbelow.ss01 acircumflexgrave.ss01 acircumflexhookabove.ss01 acircumflextilde.ss01 adieresis.ss01 adotbelow.ss01 agrave.ss01 ahookabove.ss01 ainvertedbreve.ss01 amacron.ss01 aogonek.ss01 aring.ss01 atilde.ss01 ae.ss01 aemacron.ss01 a.ss02 aacute.ss02 abreve.ss02 abreveacute.ss02 abrevedotbelow.ss02 abrevegrave.ss02 abrevehookabove.ss02 abrevetilde.ss02 acircumflex.ss02 acircumflexacute.ss02 acircumflexdotbelow.ss02 acircumflexgrave.ss02 acircumflexhookabove.ss02 acircumflextilde.ss02 adieresis.ss02 adotbelow.ss02 agrave.ss02 ahookabove.ss02 ainvertedbreve.ss02 amacron.ss02 aogonek.ss02 aring.ss02 atilde.ss02 ae.ss02 aemacron.ss02 g.ss04 gbreve.ss04 gcircumflex.ss04 gcommaaccent.ss04 gdotaccent.ss04 gmacron.ss04 ij.ss07 j.ss07 jdotless.ss07 jacute.ss07 jcircumflex.ss07 y.ss07 yacute.ss07 ycircumflex.ss07 ydieresis.ss07 ydotaccent.ss07 ydotbelow.ss07 ygrave.ss07 yhookabove.ss07 ytilde.ss07 f.ss08 t.ss08 tbar.ss08 tcaron.ss08 tcedilla.ss08 tcommaaccent.ss08 tdotbelow.ss08 tmacronbelow.ss08 c.ss10 cacute.ss10 ccaron.ss10 ccedilla.ss10 ccircumflex.ss10 cdotaccent.ss10 ij.ss10 j.ss10 jdotless.ss10 jacute.ss10 jcircumflex.ss10 eng.ss10 t.ss10 tbar.ss10 tcaron.ss10 tcedilla.ss10 tcommaaccent.ss10 tdotbelow.ss10 tmacronbelow.ss10 u.ss10 uacute.ss10 ubreve.ss10 ucircumflex.ss10 udieresis.ss10 udieresisacute.ss10 udieresiscaron.ss10 udieresisgrave.ss10 udieresismacron.ss10 udotbelow.ss10 ugrave.ss10 uhookabove.ss10 uhorn.ss10 uhornacute.ss10 uhorndotbelow.ss10 uhorngrave.ss10 uhornhookabove.ss10 uhorntilde.ss10 uhungarumlaut.ss10 uinvertedbreve.ss10 umacron.ss10 uogonek.ss10 uring.ss10 utilde.ss10 y.ss10 yacute.ss10 ycircumflex.ss10 ydieresis.ss10 ydotaccent.ss10 ydotbelow.ss10 ygrave.ss10 yhookabove.ss10 ytilde.ss10 a.ss14 aacute.ss14 abreve.ss14 abreveacute.ss14 abrevedotbelow.ss14 abrevegrave.ss14 abrevehookabove.ss14 abrevetilde.ss14 acircumflex.ss14 acircumflexacute.ss14 acircumflexdotbelow.ss14 acircumflexgrave.ss14 acircumflexhookabove.ss14 acircumflextilde.ss14 adieresis.ss14 adotbelow.ss14 agrave.ss14 ahookabove.ss14 ainvertedbreve.ss14 amacron.ss14 aogonek.ss14 aring.ss14 atilde.ss14 l.ss14 lacute.ss14 lcaron.ss14 lcommaaccent.ss14 ldot.ss14 ldotbelow.ss14 ldotbelowmacron.ss14 lmacronbelow.ss14 lslash.ss14 l.ss16 lacute.ss16 lcaron.ss16 lcommaaccent.ss16 ldot.ss16 ldotbelow.ss16 ldotbelowmacron.ss16 lmacronbelow.ss16 lslash.ss16 lcommaaccent.loclMAH.rcltA11y lcommaaccent.loclMAH.ss14 lcommaaccent.loclMAH.ss16 f_f_i f_f_l f_t fi fl f_f_i.rcltBase f_f_l.rcltBase f_t.rcltBase fi.rcltBase fl.rcltBase f_t.rcltGeo f_f_i.ss08 f_f_l.ss08 f_t.ss08 fi.ss08 fl.ss08 f_t.ss10 f_f_i.ss11 f_f_l.ss11 f_t.ss11 fi.ss11 fl.ss11 ordfeminine ordmasculine ordfeminine.rcltBase ordfeminine.ss01 Xi Omega Xi.tf pi pi.rcltGeo pi.ss10 zero one two three four five six seven eight nine zero.zero zero.disp one.disp six.disp seven.disp nine.disp zero.lf one.lf two.lf three.lf four.lf five.lf six.lf seven.lf eight.lf nine.lf six.rclt1 nine.rclt1 six.rclt2 nine.rclt2 six.rclt3 nine.rclt3 zero.rcltGeo one.rcltGeo five.rcltGeo zero.ss10 one.ss10 five.ss10 six.ss12 nine.ss12 zero.tf one.tf two.tf three.tf four.tf five.tf six.tf seven.tf eight.tf nine.tf zero.zero.disp six.lf.rclt1 nine.lf.rclt1 zero.lf.rcltGeo one.lf.rcltGeo five.lf.rcltGeo zero.lf.ss10 one.lf.ss10 six.lf.ss12 nine.lf.ss12 zero.zero.rcltGeo zero.rvrnGeo.dnom one.rvrnGeo.dnom zero.rvrnGeo.numr one.rvrnGeo.numr zero.ss10.dnom one.ss10.dnom zero.ss10.numr one.ss10.numr six.tf.rclt1 nine.tf.rclt1 zero.tf.rcltGeo one.tf.rcltGeo five.tf.rcltGeo zero.tf.ss10 one.tf.ss10 six.tf.ss12 nine.tf.ss12 five.tf.001 zero.dnom one.dnom two.dnom three.dnom four.dnom five.dnom six.dnom seven.dnom eight.dnom nine.dnom zero.numr one.numr two.numr three.numr four.numr five.numr six.numr seven.numr eight.numr nine.numr zero.dnom.rcltGeo one.dnom.rcltGeo five.dnom.rcltGeo zero.numr.rcltGeo one.numr.rcltGeo five.numr.rcltGeo zeroinferior oneinferior twoinferior threeinferior fourinferior fiveinferior sixinferior seveninferior eightinferior nineinferior zerosuperior onesuperior twosuperior threesuperior foursuperior fivesuperior sixsuperior sevensuperior eightsuperior ninesuperior zeroinferior.rcltGeo oneinferior.rcltGeo fiveinferior.rcltGeo zerosuperior.rcltGeo onesuperior.rcltGeo fivesuperior.rcltGeo space nbspace enspace emspace threeperemspace fourperemspace sixperemspace figurespace punctuationspace thinspace hairspace zerowidthspace zerowidthnonjoiner zerowidthjoiner narrownbspace CR leftanglebracket-math rightanglebracket-math period comma colon semicolon ellipsis exclam exclamdown question questiondown periodcentered bullet asterisk dblverticalbar exclamdouble interrobang invertedinterrobang numbersign slash backslash colon.calt periodcentered.case periodcentered.loclCAT numbersign.tf periodcentered.loclCAT.case hyphen softhyphen endash emdash underscore parenleft parenright braceleft braceright bracketleft bracketright quotesinglbase quotedblbase quotedblleft quotedblright quoteleft quoteright guillemetleft guillemetright guilsinglleft guilsinglright quotedbl quotesingle florin florin.tf baht baht.tf at_spam_trap APLcirclestar blackStar whiteStar ballotBoxWithCheck ballotBoxWithX heartWhiteSuit heartBlackSuit checkmark heavyCheckMark ballotX heavyBallotX blackFourPointedStar whiteFourPointedStar sparkles heavyBlackHeart at ampersand paragraph section copyright registered trademark degree minute second bar brokenbar dagger literSign daggerdbl estimated numero blackSmallStar whiteSmallStar D.circled bitcoin cedi cent colonsign currency dollar dong euro guarani hryvnia kip lari liraTurkish manat naira peso riyalSaudi ruble rupee rupeeIndian sheqel sterling tenge tugrik won yen euro.rcltGeo guarani.rcltUI guarani.ss06 euro.ss10 bitcoin.tf cedi.tf cent.tf colonsign.tf currency.tf dollar.tf dong.tf euro.tf guarani.tf hryvnia.tf kip.tf lari.tf liraTurkish.tf naira.tf peso.tf riyalSaudi.tf ruble.tf rupee.tf rupeeIndian.tf sheqel.tf sterling.tf tenge.tf tugrik.tf won.tf yen.tf euro.tf.rcltGeo guarani.tf.rcltUI guarani.tf.ss06 euro.tf.ss10 because divisionslash plus minus multiply divide equal notequal greater less greaterequal lessequal plusminus approxequal asciitilde logicalnot asciicircum infinity emptyset integral Ohm increment product summation radical micro partialdiff percent perthousand therefore micro.rcltGeo micro.ss10 upArrow northEastArrow rightArrow southEastArrow downArrow southWestArrow leftArrow northWestArrow leftRightArrow upDownArrow blackCircle whiteCircle dottedCircle whiteBullet blackDiamond whiteDiamond lozenge blackSquare whiteSquare blackSmallSquare whiteSmallSquare mediumBlackSquare upBlackTriangle rightBlackTriangle downBlackTriangle leftBlackTriangle upWhiteTriangle rightWhiteTriangle downWhiteTriangle leftWhiteTriangle upBlackSmallTriangle rightBlackSmallTriangle downBlackSmallTriangle leftBlackSmallTriangle upWhiteSmallTriangle rightWhiteSmallTriangle downWhiteSmallTriangle leftWhiteSmallTriangle dieresiscomb dotaccentcomb gravecomb gravecomb_macroncomb acutecomb acutecomb_macroncomb hungarumlautcomb caroncomb.alt circumflexcomb caroncomb brevecomb ringcomb tildecomb macroncomb macroncomb_gravecomb macroncomb_acutecomb hookabovecomb dblgravecomb breveinvertedcomb commaturnedabovecomb horncomb dotbelowcomb dieresisbelowcomb commaaccentcomb.loclMAH commaaccentcomb cedillacomb ogonekcomb brevebelowcomb macronbelowcomb slashlongcomb brevecomb_acutecomb brevecomb_gravecomb brevecomb_hookabovecomb brevecomb_tildecomb circumflexcomb_acutecomb circumflexcomb_gravecomb circumflexcomb_hookabovecomb circumflexcomb_tildecomb dieresiscomb.case dotaccentcomb.case gravecomb.case gravecomb_macroncomb.case acutecomb.case acutecomb_macroncomb.case hungarumlautcomb.case circumflexcomb.case circumflexcomb_gravecomb.case circumflexcomb_acutecomb.case circumflexcomb_tildecomb.case circumflexcomb_hookabovecomb.case caroncomb.case brevecomb.case brevecomb_gravecomb.case brevecomb_acutecomb.case brevecomb_tildecomb.case brevecomb_hookabovecomb.case tildecomb.case macroncomb.case macroncomb_gravecomb.case macroncomb_acutecomb.case hookabovecomb.case breveinvertedcomb.case horncomb.case slashlongcomb.case dieresis dotaccent grave acute hungarumlaut circumflex caron breve ring tilde macron cedilla ogonek apostrophemod commaturnedmod primemod verticallinemod IJacute Mcommaaccent Nmacron Ocommaaccent ijacute mcommaaccent nmacron ocommaaccent IJacute.rcltA11y IJacute.ss14 Mcommaaccent.loclMAH Mcommaaccent.rcltGeo Mcommaaccent.ss09 Ocommaaccent.loclMAH ijacute.rcltBase ijacute.rcltGeo ijacute.ss07 ijacute.ss10 mcommaaccent.loclMAH ocommaaccent.loclMAH Mcommaaccent.loclMAH.rcltGeo Mcommaaccent.loclMAH.ss09";
+code = "A Aacute Abreve Abreveacute Abrevedotbelow Abrevegrave Abrevehookabove Abrevetilde Acircumflex Acircumflexacute Acircumflexdotbelow Acircumflexgrave Acircumflexhookabove Acircumflextilde Adieresis Adotbelow Agrave Ahookabove Ainvertedbreve Amacron Aogonek Aring Atilde AE AEmacron B C Cacute Ccaron Ccedilla Ccircumflex Cdotaccent D Dcaron Dcroat Ddotbelow Eth E Eacute Ecaron Ecircumflex Ecircumflexacute Ecircumflexdotbelow Ecircumflexgrave Ecircumflexhookabove Ecircumflextilde Edieresis Edotaccent Edotbelow Egrave Ehookabove Einvertedbreve Emacron Eogonek Etilde Schwa F Fhook G Gbreve Gcircumflex Gcommaaccent Gdotaccent Gmacron H Hbar Hbrevebelow Hcircumflex Hdotbelow I IJ Iacute Icircumflex Idieresis Idotaccent Idotbelow Igrave Ihookabove Iinvertedbreve Imacron Iogonek Itilde J Jacute Jcircumflex K Kcommaaccent Kmacronbelow L Lacute Lcaron Lcommaaccent Ldot Ldotbelow Ldotbelowmacron Lmacronbelow Lslash M Mdotaccent Mdotbelow N Nacute Ncaron Ncommaaccent Ndotaccent Ndotbelow Nmacronbelow Ntilde Eng O Oacute Ocircumflex Ocircumflexacute Ocircumflexdotbelow Ocircumflexgrave Ocircumflexhookabove Ocircumflextilde Odieresis Odotbelow Ograve Ohookabove Ohorn Ohornacute Ohorndotbelow Ohorngrave Ohornhookabove Ohorntilde Ohungarumlaut Oinvertedbreve Omacron Oslash Otilde OE P Thorn Q R Racute Rcaron Rcommaaccent Rdotbelowmacron Rinvertedbreve Rmacronbelow S Sacute Scaron Scedilla Scircumflex Scommaaccent Sdotbelow Germandbls T Tbar Tcaron Tcedilla Tcommaaccent Tdotbelow Tmacronbelow U Uacute Ubreve Ucircumflex Udieresis Udotbelow Ugrave Uhookabove Uhorn Uhornacute Uhorndotbelow Uhorngrave Uhornhookabove Uhorntilde Uhungarumlaut Uinvertedbreve Umacron Uogonek Uring Utilde V W Wacute Wcircumflex Wdieresis Wgrave X Y Yacute Ycircumflex Ydieresis Ydotaccent Ydotbelow Ygrave Yhookabove Ytilde Z Zacute Zcaron Zdotaccent Zdotbelow Zmacronbelow Saltillo Lcommaaccent.loclMAH Ncommaaccent.loclMAH I.rcltA11y IJ.rcltA11y Iacute.rcltA11y Icircumflex.rcltA11y Idieresis.rcltA11y Idotaccent.rcltA11y Idotbelow.rcltA11y Igrave.rcltA11y Ihookabove.rcltA11y Iinvertedbreve.rcltA11y Imacron.rcltA11y Iogonek.rcltA11y Itilde.rcltA11y C.rcltGeo Cacute.rcltGeo Ccaron.rcltGeo Ccedilla.rcltGeo Ccircumflex.rcltGeo Cdotaccent.rcltGeo M.rcltGeo Mdotaccent.rcltGeo Mdotbelow.rcltGeo Eng.rcltGeo G.rcltUI Gbreve.rcltUI Gcircumflex.rcltUI Gcommaaccent.rcltUI Gdotaccent.rcltUI Gmacron.rcltUI G.ss06 Gbreve.ss06 Gcircumflex.ss06 Gcommaaccent.ss06 Gdotaccent.ss06 Gmacron.ss06 M.ss09 Mdotaccent.ss09 Mdotbelow.ss09 C.ss10 Cacute.ss10 Ccaron.ss10 Ccedilla.ss10 Ccircumflex.ss10 Cdotaccent.ss10 Eng.ss10 I.ss14 IJ.ss14 Iacute.ss14 Icircumflex.ss14 Idieresis.ss14 Idotaccent.ss14 Idotbelow.ss14 Igrave.ss14 Ihookabove.ss14 Iinvertedbreve.ss14 Imacron.ss14 Iogonek.ss14 Itilde.ss14 a aacute abreve abreveacute abrevedotbelow abrevegrave abrevehookabove abrevetilde acircumflex acircumflexacute acircumflexdotbelow acircumflexgrave acircumflexhookabove acircumflextilde adieresis adotbelow agrave ahookabove ainvertedbreve amacron aogonek aring atilde ae aemacron b c cacute ccaron ccedilla ccircumflex cdotaccent d dcaron dcroat ddotbelow eth e eacute ecaron ecircumflex ecircumflexacute ecircumflexdotbelow ecircumflexgrave ecircumflexhookabove ecircumflextilde edieresis edotaccent edotbelow egrave ehookabove einvertedbreve emacron eogonek etilde schwa f g gbreve gcircumflex gcommaaccent gdotaccent gmacron h hbar hbrevebelow hcircumflex hdotbelow hmacronbelow i idotless iacute icircumflex idieresis idotaccent idotbelow igrave ihookabove iinvertedbreve imacron iogonek itilde ij j jdotless jacute jcircumflex k kcommaaccent kgreenlandic kmacronbelow l lacute lcaron lcommaaccent ldot ldotbelow ldotbelowmacron lmacronbelow lslash m mdotaccent mdotbelow n nacute ncaron ncommaaccent ndotaccent ndotbelow nmacronbelow ntilde eng o oacute ocircumflex ocircumflexacute ocircumflexdotbelow ocircumflexgrave ocircumflexhookabove ocircumflextilde odieresis odotbelow ograve ohookabove ohorn ohornacute ohorndotbelow ohorngrave ohornhookabove ohorntilde ohungarumlaut oinvertedbreve omacron oslash otilde oe p thorn q r racute rcaron rcommaaccent rdotbelowmacron rinvertedbreve rmacronbelow s sacute scaron scedilla scircumflex scommaaccent sdotbelow germandbls t tbar tcaron tcedilla tcommaaccent tdotbelow tmacronbelow u uacute ubreve ucircumflex udieresis udieresisacute udieresiscaron udieresisgrave udieresismacron udotbelow ugrave uhookabove uhorn uhornacute uhorndotbelow uhorngrave uhornhookabove uhorntilde uhungarumlaut uinvertedbreve umacron uogonek uring utilde v w wacute wcircumflex wdieresis wgrave x y yacute ycircumflex ydieresis ydotaccent ydotbelow ygrave yhookabove ytilde z zacute zcaron zdotaccent zdotbelow zmacronbelow saltillo a.alt aacute.alt abreve.alt abreveacute.alt abrevedotbelow.alt abrevegrave.alt abrevehookabove.alt abrevetilde.alt acircumflex.alt acircumflexacute.alt acircumflexdotbelow.alt acircumflexgrave.alt acircumflexhookabove.alt acircumflextilde.alt adieresis.alt adotbelow.alt agrave.alt ahookabove.alt ainvertedbreve.alt amacron.alt aogonek.alt aring.alt atilde.alt lcommaaccent.loclMAH ncommaaccent.loclMAH a.rcltA11y aacute.rcltA11y abreve.rcltA11y abreveacute.rcltA11y abrevedotbelow.rcltA11y abrevegrave.rcltA11y abrevehookabove.rcltA11y abrevetilde.rcltA11y acircumflex.rcltA11y acircumflexacute.rcltA11y acircumflexdotbelow.rcltA11y acircumflexgrave.rcltA11y acircumflexhookabove.rcltA11y acircumflextilde.rcltA11y adieresis.rcltA11y adotbelow.rcltA11y agrave.rcltA11y ahookabove.rcltA11y ainvertedbreve.rcltA11y amacron.rcltA11y aogonek.rcltA11y aring.rcltA11y atilde.rcltA11y g.rcltA11y gbreve.rcltA11y gcircumflex.rcltA11y gcommaaccent.rcltA11y gdotaccent.rcltA11y gmacron.rcltA11y l.rcltA11y lacute.rcltA11y lcaron.rcltA11y lcommaaccent.rcltA11y ldot.rcltA11y ldotbelow.rcltA11y ldotbelowmacron.rcltA11y lmacronbelow.rcltA11y lslash.rcltA11y a.rcltBase aacute.rcltBase abreve.rcltBase abreveacute.rcltBase abrevedotbelow.rcltBase abrevegrave.rcltBase abrevehookabove.rcltBase abrevetilde.rcltBase acircumflex.rcltBase acircumflexacute.rcltBase acircumflexdotbelow.rcltBase acircumflexgrave.rcltBase acircumflexhookabove.rcltBase acircumflextilde.rcltBase adieresis.rcltBase adotbelow.rcltBase agrave.rcltBase ahookabove.rcltBase ainvertedbreve.rcltBase amacron.rcltBase aogonek.rcltBase aring.rcltBase atilde.rcltBase ae.rcltBase aemacron.rcltBase f.rcltBase ij.rcltBase j.rcltBase jdotless.rcltBase jacute.rcltBase jcircumflex.rcltBase t.rcltBase tbar.rcltBase tcaron.rcltBase tcedilla.rcltBase tcommaaccent.rcltBase tdotbelow.rcltBase tmacronbelow.rcltBase y.rcltBase yacute.rcltBase ycircumflex.rcltBase ydieresis.rcltBase ydotaccent.rcltBase ydotbelow.rcltBase ygrave.rcltBase yhookabove.rcltBase ytilde.rcltBase c.rcltGeo cacute.rcltGeo ccaron.rcltGeo ccedilla.rcltGeo ccircumflex.rcltGeo cdotaccent.rcltGeo ij.rcltGeo j.rcltGeo jdotless.rcltGeo jacute.rcltGeo jcircumflex.rcltGeo eng.rcltGeo t.rcltGeo tbar.rcltGeo tcaron.rcltGeo tcedilla.rcltGeo tcommaaccent.rcltGeo tdotbelow.rcltGeo tmacronbelow.rcltGeo u.rcltGeo uacute.rcltGeo ubreve.rcltGeo ucircumflex.rcltGeo udieresis.rcltGeo udieresisacute.rcltGeo udieresiscaron.rcltGeo udieresisgrave.rcltGeo udieresismacron.rcltGeo udotbelow.rcltGeo ugrave.rcltGeo uhookabove.rcltGeo uhorn.rcltGeo uhornacute.rcltGeo uhorndotbelow.rcltGeo uhorngrave.rcltGeo uhornhookabove.rcltGeo uhorntilde.rcltGeo uhungarumlaut.rcltGeo uinvertedbreve.rcltGeo umacron.rcltGeo uogonek.rcltGeo uring.rcltGeo utilde.rcltGeo y.rcltGeo yacute.rcltGeo ycircumflex.rcltGeo ydieresis.rcltGeo ydotaccent.rcltGeo ydotbelow.rcltGeo ygrave.rcltGeo yhookabove.rcltGeo ytilde.rcltGeo a.ss01 aacute.ss01 abreve.ss01 abreveacute.ss01 abrevedotbelow.ss01 abrevegrave.ss01 abrevehookabove.ss01 abrevetilde.ss01 acircumflex.ss01 acircumflexacute.ss01 acircumflexdotbelow.ss01 acircumflexgrave.ss01 acircumflexhookabove.ss01 acircumflextilde.ss01 adieresis.ss01 adotbelow.ss01 agrave.ss01 ahookabove.ss01 ainvertedbreve.ss01 amacron.ss01 aogonek.ss01 aring.ss01 atilde.ss01 ae.ss01 aemacron.ss01 a.ss02 aacute.ss02 abreve.ss02 abreveacute.ss02 abrevedotbelow.ss02 abrevegrave.ss02 abrevehookabove.ss02 abrevetilde.ss02 acircumflex.ss02 acircumflexacute.ss02 acircumflexdotbelow.ss02 acircumflexgrave.ss02 acircumflexhookabove.ss02 acircumflextilde.ss02 adieresis.ss02 adotbelow.ss02 agrave.ss02 ahookabove.ss02 ainvertedbreve.ss02 amacron.ss02 aogonek.ss02 aring.ss02 atilde.ss02 ae.ss02 aemacron.ss02 g.ss04 gbreve.ss04 gcircumflex.ss04 gcommaaccent.ss04 gdotaccent.ss04 gmacron.ss04 ij.ss07 j.ss07 jdotless.ss07 jacute.ss07 jcircumflex.ss07 y.ss07 yacute.ss07 ycircumflex.ss07 ydieresis.ss07 ydotaccent.ss07 ydotbelow.ss07 ygrave.ss07 yhookabove.ss07 ytilde.ss07 f.ss08 t.ss08 tbar.ss08 tcaron.ss08 tcedilla.ss08 tcommaaccent.ss08 tdotbelow.ss08 tmacronbelow.ss08 c.ss10 cacute.ss10 ccaron.ss10 ccedilla.ss10 ccircumflex.ss10 cdotaccent.ss10 ij.ss10 j.ss10 jdotless.ss10 jacute.ss10 jcircumflex.ss10 eng.ss10 t.ss10 tbar.ss10 tcaron.ss10 tcedilla.ss10 tcommaaccent.ss10 tdotbelow.ss10 tmacronbelow.ss10 u.ss10 uacute.ss10 ubreve.ss10 ucircumflex.ss10 udieresis.ss10 udieresisacute.ss10 udieresiscaron.ss10 udieresisgrave.ss10 udieresismacron.ss10 udotbelow.ss10 ugrave.ss10 uhookabove.ss10 uhorn.ss10 uhornacute.ss10 uhorndotbelow.ss10 uhorngrave.ss10 uhornhookabove.ss10 uhorntilde.ss10 uhungarumlaut.ss10 uinvertedbreve.ss10 umacron.ss10 uogonek.ss10 uring.ss10 utilde.ss10 y.ss10 yacute.ss10 ycircumflex.ss10 ydieresis.ss10 ydotaccent.ss10 ydotbelow.ss10 ygrave.ss10 yhookabove.ss10 ytilde.ss10 a.ss14 aacute.ss14 abreve.ss14 abreveacute.ss14 abrevedotbelow.ss14 abrevegrave.ss14 abrevehookabove.ss14 abrevetilde.ss14 acircumflex.ss14 acircumflexacute.ss14 acircumflexdotbelow.ss14 acircumflexgrave.ss14 acircumflexhookabove.ss14 acircumflextilde.ss14 adieresis.ss14 adotbelow.ss14 agrave.ss14 ahookabove.ss14 ainvertedbreve.ss14 amacron.ss14 aogonek.ss14 aring.ss14 atilde.ss14 l.ss14 lacute.ss14 lcaron.ss14 lcommaaccent.ss14 ldot.ss14 ldotbelow.ss14 ldotbelowmacron.ss14 lmacronbelow.ss14 lslash.ss14 l.ss16 lacute.ss16 lcaron.ss16 lcommaaccent.ss16 ldot.ss16 ldotbelow.ss16 ldotbelowmacron.ss16 lmacronbelow.ss16 lslash.ss16 lcommaaccent.loclMAH.rcltA11y lcommaaccent.loclMAH.ss14 lcommaaccent.loclMAH.ss16 f_f_i f_f_l f_t fi fl f_f_i.rcltBase f_f_l.rcltBase f_t.rcltBase fi.rcltBase fl.rcltBase f_t.rcltGeo f_f_i.ss08 f_f_l.ss08 f_t.ss08 fi.ss08 fl.ss08 f_t.ss10 f_f_i.ss11 f_f_l.ss11 f_t.ss11 fi.ss11 fl.ss11 ordfeminine ordmasculine ordfeminine.rcltBase ordfeminine.ss01 Xi Omega Xi.tf pi pi.rcltGeo pi.ss10 zero one two three four five six seven eight nine zero.zero zero.disp one.disp six.disp nine.disp zero.lf one.lf two.lf three.lf four.lf five.lf six.lf seven.lf eight.lf nine.lf six.rclt1 nine.rclt1 six.rclt2 nine.rclt2 six.rclt3 nine.rclt3 zero.rcltGeo one.rcltGeo five.rcltGeo zero.ss10 one.ss10 five.ss10 six.ss12 nine.ss12 zero.tf one.tf two.tf three.tf four.tf five.tf six.tf seven.tf eight.tf nine.tf zero.zero.disp six.lf.rclt1 nine.lf.rclt1 zero.lf.rcltGeo one.lf.rcltGeo five.lf.rcltGeo zero.lf.ss10 one.lf.ss10 six.lf.ss12 nine.lf.ss12 zero.zero.rcltGeo six.tf.rclt1 nine.tf.rclt1 zero.tf.rcltGeo one.tf.rcltGeo five.tf.rcltGeo zero.tf.ss10 one.tf.ss10 six.tf.ss12 nine.tf.ss12 five.tf.001 space nbspace enspace emspace threeperemspace fourperemspace sixperemspace figurespace punctuationspace thinspace hairspace zerowidthspace zerowidthnonjoiner zerowidthjoiner narrownbspace CR leftanglebracket-math rightanglebracket-math period comma colon semicolon ellipsis exclam exclamdown question questiondown periodcentered bullet asterisk dblverticalbar exclamdouble interrobang invertedinterrobang numbersign slash backslash colon.calt periodcentered.case periodcentered.loclCAT numbersign.tf periodcentered.loclCAT.case hyphen softhyphen endash emdash underscore parenleft parenright braceleft braceright bracketleft bracketright quotesinglbase quotedblbase quotedblleft quotedblright quoteleft quoteright guillemetleft guillemetright guilsinglleft guilsinglright quotedbl quotesingle florin florin.tf baht baht.tf at_spam_trap APLcirclestar blackStar whiteStar ballotBoxWithCheck ballotBoxWithX heartWhiteSuit heartBlackSuit checkmark heavyCheckMark ballotX heavyBallotX blackFourPointedStar whiteFourPointedStar sparkles heavyBlackHeart at ampersand paragraph section copyright registered trademark degree minute second bar brokenbar dagger literSign daggerdbl estimated numero blackSmallStar whiteSmallStar D.circled bitcoin cedi cent colonsign currency dollar dong euro guarani hryvnia kip lari liraTurkish manat naira peso riyalSaudi ruble rupee rupeeIndian sheqel sterling tenge tugrik won yen euro.rcltGeo guarani.rcltUI guarani.ss06 euro.ss10 bitcoin.tf cedi.tf cent.tf colonsign.tf currency.tf dollar.tf dong.tf euro.tf guarani.tf hryvnia.tf kip.tf lari.tf liraTurkish.tf naira.tf peso.tf riyalSaudi.tf ruble.tf rupee.tf rupeeIndian.tf sheqel.tf sterling.tf tenge.tf tugrik.tf won.tf yen.tf euro.tf.rcltGeo guarani.tf.rcltUI guarani.tf.ss06 euro.tf.ss10 because divisionslash plus minus multiply divide equal notequal greater less greaterequal lessequal plusminus approxequal asciitilde logicalnot asciicircum infinity emptyset integral Ohm increment product summation radical micro partialdiff percent perthousand therefore micro.rcltGeo micro.ss10 upArrow northEastArrow rightArrow southEastArrow downArrow southWestArrow leftArrow northWestArrow leftRightArrow upDownArrow blackCircle whiteCircle dottedCircle whiteBullet blackDiamond whiteDiamond lozenge blackSquare whiteSquare blackSmallSquare whiteSmallSquare mediumBlackSquare upBlackTriangle rightBlackTriangle downBlackTriangle leftBlackTriangle upWhiteTriangle rightWhiteTriangle downWhiteTriangle leftWhiteTriangle upBlackSmallTriangle rightBlackSmallTriangle downBlackSmallTriangle leftBlackSmallTriangle upWhiteSmallTriangle rightWhiteSmallTriangle downWhiteSmallTriangle leftWhiteSmallTriangle dieresiscomb dotaccentcomb gravecomb gravecomb_macroncomb acutecomb acutecomb_macroncomb hungarumlautcomb caroncomb.alt circumflexcomb caroncomb brevecomb ringcomb tildecomb macroncomb macroncomb_gravecomb macroncomb_acutecomb hookabovecomb dblgravecomb breveinvertedcomb commaturnedabovecomb horncomb dotbelowcomb dieresisbelowcomb commaaccentcomb.loclMAH commaaccentcomb cedillacomb ogonekcomb brevebelowcomb macronbelowcomb slashlongcomb brevecomb_acutecomb brevecomb_gravecomb brevecomb_hookabovecomb brevecomb_tildecomb circumflexcomb_acutecomb circumflexcomb_gravecomb circumflexcomb_hookabovecomb circumflexcomb_tildecomb dieresiscomb.case dotaccentcomb.case gravecomb.case gravecomb_macroncomb.case acutecomb.case acutecomb_macroncomb.case hungarumlautcomb.case circumflexcomb.case circumflexcomb_gravecomb.case circumflexcomb_acutecomb.case circumflexcomb_tildecomb.case circumflexcomb_hookabovecomb.case caroncomb.case brevecomb.case brevecomb_gravecomb.case brevecomb_acutecomb.case brevecomb_tildecomb.case brevecomb_hookabovecomb.case tildecomb.case macroncomb.case macroncomb_gravecomb.case macroncomb_acutecomb.case hookabovecomb.case breveinvertedcomb.case horncomb.case slashlongcomb.case dieresis dotaccent grave acute hungarumlaut circumflex caron breve ring tilde macron cedilla ogonek apostrophemod commaturnedmod primemod verticallinemod IJacute Mcommaaccent Nmacron Ocommaaccent ijacute mcommaaccent nmacron ocommaaccent IJacute.rcltA11y IJacute.ss14 Mcommaaccent.loclMAH Mcommaaccent.rcltGeo Mcommaaccent.ss09 Ocommaaccent.loclMAH ijacute.rcltBase ijacute.rcltGeo ijacute.ss07 ijacute.ss10 mcommaaccent.loclMAH ocommaaccent.loclMAH Mcommaaccent.loclMAH.rcltGeo Mcommaaccent.loclMAH.ss09";
 name = All;
 }
 );
@@ -261,7 +261,19 @@ date = "2026-06-05 05:49:30 +0000";
 familyName = "Cal Sans";
 featurePrefixes = (
 {
-code = "# ==========================================
+code = "conditionset cond_micro_8 { opsz 8 8.5; } cond_micro_8;
+  variation kern cond_micro_8  { pos @All <0 0 10 0>; } kern;
+
+conditionset cond_micro_85 { opsz 8.5 9;   } cond_micro_85;
+  variation kern cond_micro_85 { pos @All <0 0 8 0>; } kern;
+
+conditionset cond_micro_9  { opsz 9   9.5; } cond_micro_9;
+  variation kern cond_micro_9  { pos @All <0 0 5 0>; } kern;
+
+conditionset cond_micro_95 { opsz 9.5 10;  } cond_micro_95;
+  variation kern cond_micro_95 { pos @All <0 0 3 0>; } kern;
+
+# ==========================================
 # 1. Condition Sets
 # ==========================================
 
@@ -302,9 +314,6 @@ conditionset cond_GEOM_TEXT_fjt {
     GEOM 39 76;
 } cond_GEOM_TEXT_fjt;
 
-#conditionset cond_GEOM_TEXT_f_high {
-#    GEOM 75 32767;
-#} cond_GEOM_TEXT_f_high;
 
 conditionset cond_GEOM_TEXT_y {
     GEOM 39 61;
@@ -324,374 +333,295 @@ conditionset cond_GEOM_GEO_rest {
 
 
 # ==========================================
-# 2. Variation Feature Blocks
+# 2. Variation Blocks (top-level, direct subs — feaLib/fontmake form)
 # ==========================================
 
-feature rclt {
+variation rclt cond_opsz_8_A11y {
+    sub a by a.rcltA11y;
+    sub aacute by aacute.rcltA11y;
+    sub abreve by abreve.rcltA11y;
+    sub abreveacute by abreveacute.rcltA11y;
+    sub abrevedotbelow by abrevedotbelow.rcltA11y;
+    sub abrevegrave by abrevegrave.rcltA11y;
+    sub abrevehookabove by abrevehookabove.rcltA11y;
+    sub abrevetilde by abrevetilde.rcltA11y;
+    sub acircumflex by acircumflex.rcltA11y;
+    sub acircumflexacute by acircumflexacute.rcltA11y;
+    sub acircumflexdotbelow by acircumflexdotbelow.rcltA11y;
+    sub acircumflexgrave by acircumflexgrave.rcltA11y;
+    sub acircumflexhookabove by acircumflexhookabove.rcltA11y;
+    sub acircumflextilde by acircumflextilde.rcltA11y;
+    sub adieresis by adieresis.rcltA11y;
+    sub adotbelow by adotbelow.rcltA11y;
+    sub agrave by agrave.rcltA11y;
+    sub ahookabove by ahookabove.rcltA11y;
+    sub ainvertedbreve by ainvertedbreve.rcltA11y;
+    sub amacron by amacron.rcltA11y;
+    sub aogonek by aogonek.rcltA11y;
+    sub aring by aring.rcltA11y;
+    sub atilde by atilde.rcltA11y;
+    sub a.alt by a.rcltA11y;
+    sub aacute.alt by aacute.rcltA11y;
+    sub abreve.alt by abreve.rcltA11y;
+    sub abreveacute.alt by abreveacute.rcltA11y;
+    sub abrevedotbelow.alt by abrevedotbelow.rcltA11y;
+    sub abrevegrave.alt by abrevegrave.rcltA11y;
+    sub abrevehookabove.alt by abrevehookabove.rcltA11y;
+    sub abrevetilde.alt by abrevetilde.rcltA11y;
+    sub acircumflex.alt by acircumflex.rcltA11y;
+    sub acircumflexacute.alt by acircumflexacute.rcltA11y;
+    sub acircumflexdotbelow.alt by acircumflexdotbelow.rcltA11y;
+    sub acircumflexgrave.alt by acircumflexgrave.rcltA11y;
+    sub acircumflexhookabove.alt by acircumflexhookabove.rcltA11y;
+    sub acircumflextilde.alt by acircumflextilde.rcltA11y;
+    sub adieresis.alt by adieresis.rcltA11y;
+    sub adotbelow.alt by adotbelow.rcltA11y;
+    sub agrave.alt by agrave.rcltA11y;
+    sub ahookabove.alt by ahookabove.rcltA11y;
+    sub ainvertedbreve.alt by ainvertedbreve.rcltA11y;
+    sub amacron.alt by amacron.rcltA11y;
+    sub aogonek.alt by aogonek.rcltA11y;
+    sub aring.alt by aring.rcltA11y;
+    sub atilde.alt by atilde.rcltA11y;
+} rclt;
 
-    variation cond_opsz_8_A11y {
-        lookup opsz_8_A11y {
-            sub a by a.rcltA11y;
-            sub aacute by aacute.rcltA11y;
-            sub abreve by abreve.rcltA11y;
-            sub abreveacute by abreveacute.rcltA11y;
-            sub abrevedotbelow by abrevedotbelow.rcltA11y;
-            sub abrevegrave by abrevegrave.rcltA11y;
-            sub abrevehookabove by abrevehookabove.rcltA11y;
-            sub abrevetilde by abrevetilde.rcltA11y;
-            sub acircumflex by acircumflex.rcltA11y;
-            sub acircumflexacute by acircumflexacute.rcltA11y;
-            sub acircumflexdotbelow by acircumflexdotbelow.rcltA11y;
-            sub acircumflexgrave by acircumflexgrave.rcltA11y;
-            sub acircumflexhookabove by acircumflexhookabove.rcltA11y;
-            sub acircumflextilde by acircumflextilde.rcltA11y;
-            sub adieresis by adieresis.rcltA11y;
-            sub adotbelow by adotbelow.rcltA11y;
-            sub agrave by agrave.rcltA11y;
-            sub ahookabove by ahookabove.rcltA11y;
-            sub ainvertedbreve by ainvertedbreve.rcltA11y;
-            sub amacron by amacron.rcltA11y;
-            sub aogonek by aogonek.rcltA11y;
-            sub aring by aring.rcltA11y;
-            sub atilde by atilde.rcltA11y;
-            sub a.alt by a.rcltA11y;
-            sub aacute.alt by aacute.rcltA11y;
-            sub abreve.alt by abreve.rcltA11y;
-            sub abreveacute.alt by abreveacute.rcltA11y;
-            sub abrevedotbelow.alt by abrevedotbelow.rcltA11y;
-            sub abrevegrave.alt by abrevegrave.rcltA11y;
-            sub abrevehookabove.alt by abrevehookabove.rcltA11y;
-            sub abrevetilde.alt by abrevetilde.rcltA11y;
-            sub acircumflex.alt by acircumflex.rcltA11y;
-            sub acircumflexacute.alt by acircumflexacute.rcltA11y;
-            sub acircumflexdotbelow.alt by acircumflexdotbelow.rcltA11y;
-            sub acircumflexgrave.alt by acircumflexgrave.rcltA11y;
-            sub acircumflexhookabove.alt by acircumflexhookabove.rcltA11y;
-            sub acircumflextilde.alt by acircumflextilde.rcltA11y;
-            sub adieresis.alt by adieresis.rcltA11y;
-            sub adotbelow.alt by adotbelow.rcltA11y;
-            sub agrave.alt by agrave.rcltA11y;
-            sub ahookabove.alt by ahookabove.rcltA11y;
-            sub ainvertedbreve.alt by ainvertedbreve.rcltA11y;
-            sub amacron.alt by amacron.rcltA11y;
-            sub aogonek.alt by aogonek.rcltA11y;
-            sub aring.alt by aring.rcltA11y;
-            sub atilde.alt by atilde.rcltA11y;
-        } opsz_8_A11y;
-    } rclt;
+variation rclt cond_GEOM_a_tail_cameo {
+    sub g by g.rcltA11y;
+    sub gbreve by gbreve.rcltA11y;
+    sub gmacron by gmacron.rcltA11y;
+    sub gdotaccent by gdotaccent.rcltA11y;
+    sub gcircumflex by gcircumflex.rcltA11y;
+    sub gcommaaccent by gcommaaccent.rcltA11y;
+} rclt;
 
+variation rclt cond_GEOM_UI_G {
+    sub G by G.rcltUI;
+    sub Gcommaaccent by Gcommaaccent.rcltUI;
+    sub Gdotaccent by Gdotaccent.rcltUI;
+    sub Gbreve by Gbreve.rcltUI;
+    sub Gcircumflex by Gcircumflex.rcltUI;
+    sub Gmacron by Gmacron.rcltUI;
+    sub guarani by guarani.rcltUI;
+    sub guarani.tf by guarani.tf.rcltUI;
+} rclt;
 
-    # a tail — cameo reappearance: 35–40
-    variation cond_GEOM_a_tail_cameo {
-        lookup GEOM_a_tail_cameo {
-            sub g by g.rcltA11y;
-            sub gbreve by gbreve.rcltA11y;
-            sub gmacron by gmacron.rcltA11y;
-            sub gdotaccent by gdotaccent.rcltA11y;
-            sub gcircumflex by gcircumflex.rcltA11y;
-            sub gcommaaccent by gcommaaccent.rcltA11y;
-        } GEOM_a_tail_cameo;
-    } rclt;
+variation rclt cond_GEOM_A11y_Il {
+    sub I by I.rcltA11y;
+    sub IJ by IJ.rcltA11y;
+    sub IJacute by IJacute.rcltA11y;
+    sub Iacute by Iacute.rcltA11y;
+    sub Icircumflex by Icircumflex.rcltA11y;
+    sub Idieresis by Idieresis.rcltA11y;
+    sub Idotaccent by Idotaccent.rcltA11y;
+    sub Idotbelow by Idotbelow.rcltA11y;
+    sub Igrave by Igrave.rcltA11y;
+    sub Ihookabove by Ihookabove.rcltA11y;
+    sub Iinvertedbreve by Iinvertedbreve.rcltA11y;
+    sub Imacron by Imacron.rcltA11y;
+    sub Iogonek by Iogonek.rcltA11y;
+    sub Itilde by Itilde.rcltA11y;
+    sub l by l.rcltA11y;
+    sub lacute by lacute.rcltA11y;
+    sub lcaron by lcaron.rcltA11y;
+    sub lcommaaccent by lcommaaccent.rcltA11y;
+    sub ldot by ldot.rcltA11y;
+    sub ldotbelow by ldotbelow.rcltA11y;
+    sub ldotbelowmacron by ldotbelowmacron.rcltA11y;
+    sub lmacronbelow by lmacronbelow.rcltA11y;
+    sub lslash by lslash.rcltA11y;
+    sub lcommaaccent.loclMAH by lcommaaccent.loclMAH.rcltA11y;
+} rclt;
 
+variation rclt cond_GEOM_A11y_a {
+    sub a by a.rcltA11y;
+    sub aacute by aacute.rcltA11y;
+    sub abreve by abreve.rcltA11y;
+    sub abreveacute by abreveacute.rcltA11y;
+    sub abrevedotbelow by abrevedotbelow.rcltA11y;
+    sub abrevegrave by abrevegrave.rcltA11y;
+    sub abrevehookabove by abrevehookabove.rcltA11y;
+    sub abrevetilde by abrevetilde.rcltA11y;
+    sub acircumflex by acircumflex.rcltA11y;
+    sub acircumflexacute by acircumflexacute.rcltA11y;
+    sub acircumflexdotbelow by acircumflexdotbelow.rcltA11y;
+    sub acircumflexgrave by acircumflexgrave.rcltA11y;
+    sub acircumflexhookabove by acircumflexhookabove.rcltA11y;
+    sub acircumflextilde by acircumflextilde.rcltA11y;
+    sub adieresis by adieresis.rcltA11y;
+    sub adotbelow by adotbelow.rcltA11y;
+    sub agrave by agrave.rcltA11y;
+    sub ahookabove by ahookabove.rcltA11y;
+    sub ainvertedbreve by ainvertedbreve.rcltA11y;
+    sub amacron by amacron.rcltA11y;
+    sub aogonek by aogonek.rcltA11y;
+    sub aring by aring.rcltA11y;
+    sub atilde by atilde.rcltA11y;
+} rclt;
 
-    # G family — UI band: 0–40
-    variation cond_GEOM_UI_G {
-        lookup GEOM_UI_G {
-            sub G by G.rcltUI;
-            sub Gcommaaccent by Gcommaaccent.rcltUI;
-            sub Gdotaccent by Gdotaccent.rcltUI;
-            sub Gbreve by Gbreve.rcltUI;
-            sub Gcircumflex by Gcircumflex.rcltUI;
-            sub Gmacron by Gmacron.rcltUI;
-            sub guarani by guarani.rcltUI;
-            sub guarani.tf by guarani.tf.rcltUI;
-        } GEOM_UI_G;
-    } rclt;
+variation rclt cond_GEOM_UI_g_low {
+    sub g by g.rcltA11y;
+    sub gbreve by gbreve.rcltA11y;
+    sub gmacron by gmacron.rcltA11y;
+    sub gdotaccent by gdotaccent.rcltA11y;
+    sub gcircumflex by gcircumflex.rcltA11y;
+    sub gcommaaccent by gcommaaccent.rcltA11y;
+} rclt;
 
+variation rclt cond_GEOM_UI_g_cameo {
+    sub g by g.rcltA11y;
+    sub gbreve by gbreve.rcltA11y;
+    sub gmacron by gmacron.rcltA11y;
+    sub gdotaccent by gdotaccent.rcltA11y;
+    sub gcircumflex by gcircumflex.rcltA11y;
+    sub gcommaaccent by gcommaaccent.rcltA11y;
+} rclt;
 
-    # I, l, IJ — A11y at 0–10
-    variation cond_GEOM_A11y_Il {
-        lookup GEOM_A11y_Il {
-            sub I by I.rcltA11y;
-            sub IJ by IJ.rcltA11y;
-            sub IJacute by IJacute.rcltA11y;
-            sub Iacute by Iacute.rcltA11y;
-            sub Icircumflex by Icircumflex.rcltA11y;
-            sub Idieresis by Idieresis.rcltA11y;
-            sub Idotaccent by Idotaccent.rcltA11y;
-            sub Idotbelow by Idotbelow.rcltA11y;
-            sub Igrave by Igrave.rcltA11y;
-            sub Ihookabove by Ihookabove.rcltA11y;
-            sub Iinvertedbreve by Iinvertedbreve.rcltA11y;
-            sub Imacron by Imacron.rcltA11y;
-            sub Iogonek by Iogonek.rcltA11y;
-            sub Itilde by Itilde.rcltA11y;
-            sub l by l.rcltA11y;
-            sub lacute by lacute.rcltA11y;
-            sub lcaron by lcaron.rcltA11y;
-            sub lcommaaccent by lcommaaccent.rcltA11y;
-            sub ldot by ldot.rcltA11y;
-            sub ldotbelow by ldotbelow.rcltA11y;
-            sub ldotbelowmacron by ldotbelowmacron.rcltA11y;
-            sub lmacronbelow by lmacronbelow.rcltA11y;
-            sub lslash by lslash.rcltA11y;
-            sub lcommaaccent.loclMAH by lcommaaccent.loclMAH.rcltA11y;
-        } GEOM_A11y_Il;
-    } rclt;
+variation rclt cond_GEOM_TEXT_a {
+    sub a by a.rcltBase;
+    sub aacute by aacute.rcltBase;
+    sub abreve by abreve.rcltBase;
+    sub abreveacute by abreveacute.rcltBase;
+    sub abrevedotbelow by abrevedotbelow.rcltBase;
+    sub abrevegrave by abrevegrave.rcltBase;
+    sub abrevehookabove by abrevehookabove.rcltBase;
+    sub abrevetilde by abrevetilde.rcltBase;
+    sub acircumflex by acircumflex.rcltBase;
+    sub acircumflexacute by acircumflexacute.rcltBase;
+    sub acircumflexdotbelow by acircumflexdotbelow.rcltBase;
+    sub acircumflexgrave by acircumflexgrave.rcltBase;
+    sub acircumflexhookabove by acircumflexhookabove.rcltBase;
+    sub acircumflextilde by acircumflextilde.rcltBase;
+    sub adieresis by adieresis.rcltBase;
+    sub adotbelow by adotbelow.rcltBase;
+    sub agrave by agrave.rcltBase;
+    sub ahookabove by ahookabove.rcltBase;
+    sub ainvertedbreve by ainvertedbreve.rcltBase;
+    sub amacron by amacron.rcltBase;
+    sub aogonek by aogonek.rcltBase;
+    sub aring by aring.rcltBase;
+    sub atilde by atilde.rcltBase;
+    sub ae by ae.rcltBase;
+    sub aemacron by aemacron.rcltBase;
+    sub ordfeminine by ordfeminine.rcltBase;
+} rclt;
 
+variation rclt cond_GEOM_TEXT_fjt {
+    sub f by f.rcltBase;
+    sub t by t.rcltBase;
+    sub tbar by tbar.rcltBase;
+    sub tcaron by tcaron.rcltBase;
+    sub tcedilla by tcedilla.rcltBase;
+    sub tcommaaccent by tcommaaccent.rcltBase;
+    sub tdotbelow by tdotbelow.rcltBase;
+    sub tmacronbelow by tmacronbelow.rcltBase;
+    sub fi by fi.rcltBase;
+    sub fl by fl.rcltBase;
+    sub f_f_i by f_f_i.rcltBase;
+    sub f_f_l by f_f_l.rcltBase;
+    sub f_t by f_t.rcltBase;
+    sub ijacute by ijacute.rcltBase;
+    sub j by j.rcltBase;
+    sub jdotless by jdotless.rcltBase;
+    sub jacute by jacute.rcltBase;
+    sub jcircumflex by jcircumflex.rcltBase;
+} rclt;
 
-    # a — A11y at 0–12
-    variation cond_GEOM_A11y_a {
-        lookup GEOM_A11y_a {
-            sub a by a.rcltA11y;
-            sub aacute by aacute.rcltA11y;
-            sub abreve by abreve.rcltA11y;
-            sub abreveacute by abreveacute.rcltA11y;
-            sub abrevedotbelow by abrevedotbelow.rcltA11y;
-            sub abrevegrave by abrevegrave.rcltA11y;
-            sub abrevehookabove by abrevehookabove.rcltA11y;
-            sub abrevetilde by abrevetilde.rcltA11y;
-            sub acircumflex by acircumflex.rcltA11y;
-            sub acircumflexacute by acircumflexacute.rcltA11y;
-            sub acircumflexdotbelow by acircumflexdotbelow.rcltA11y;
-            sub acircumflexgrave by acircumflexgrave.rcltA11y;
-            sub acircumflexhookabove by acircumflexhookabove.rcltA11y;
-            sub acircumflextilde by acircumflextilde.rcltA11y;
-            sub adieresis by adieresis.rcltA11y;
-            sub adotbelow by adotbelow.rcltA11y;
-            sub agrave by agrave.rcltA11y;
-            sub ahookabove by ahookabove.rcltA11y;
-            sub ainvertedbreve by ainvertedbreve.rcltA11y;
-            sub amacron by amacron.rcltA11y;
-            sub aogonek by aogonek.rcltA11y;
-            sub aring by aring.rcltA11y;
-            sub atilde by atilde.rcltA11y;
-        } GEOM_A11y_a;
-    } rclt;
+variation rclt cond_GEOM_TEXT_y {
+    sub y by y.rcltBase;
+    sub yacute by yacute.rcltBase;
+    sub ycircumflex by ycircumflex.rcltBase;
+    sub ydieresis by ydieresis.rcltBase;
+    sub ydotaccent by ydotaccent.rcltBase;
+    sub ydotbelow by ydotbelow.rcltBase;
+    sub ygrave by ygrave.rcltBase;
+    sub yhookabove by yhookabove.rcltBase;
+    sub ytilde by ytilde.rcltBase;
+} rclt;
 
+variation rclt cond_GEOM_GEO_uy {
+    sub u by u.rcltGeo;
+    sub uacute by uacute.rcltGeo;
+    sub ubreve by ubreve.rcltGeo;
+    sub ucircumflex by ucircumflex.rcltGeo;
+    sub udieresis by udieresis.rcltGeo;
+    sub udotbelow by udotbelow.rcltGeo;
+    sub ugrave by ugrave.rcltGeo;
+    sub uhookabove by uhookabove.rcltGeo;
+    sub uhorn by uhorn.rcltGeo;
+    sub uhornacute by uhornacute.rcltGeo;
+    sub uhorndotbelow by uhorndotbelow.rcltGeo;
+    sub uhorngrave by uhorngrave.rcltGeo;
+    sub uhornhookabove by uhornhookabove.rcltGeo;
+    sub uhorntilde by uhorntilde.rcltGeo;
+    sub uhungarumlaut by uhungarumlaut.rcltGeo;
+    sub uinvertedbreve by uinvertedbreve.rcltGeo;
+    sub umacron by umacron.rcltGeo;
+    sub udieresisacute by udieresisacute.rcltGeo;
+    sub udieresisgrave by udieresisgrave.rcltGeo;
+    sub udieresiscaron by udieresiscaron.rcltGeo;
+    sub udieresismacron by udieresismacron.rcltGeo;
+    sub uogonek by uogonek.rcltGeo;
+    sub uring by uring.rcltGeo;
+    sub utilde by utilde.rcltGeo;
+    sub micro by micro.rcltGeo;
+    sub y by y.rcltGeo;
+    sub yacute by yacute.rcltGeo;
+    sub ycircumflex by ycircumflex.rcltGeo;
+    sub ydieresis by ydieresis.rcltGeo;
+    sub ydotaccent by ydotaccent.rcltGeo;
+    sub ydotbelow by ydotbelow.rcltGeo;
+    sub ygrave by ygrave.rcltGeo;
+    sub yhookabove by yhookabove.rcltGeo;
+    sub ytilde by ytilde.rcltGeo;
+} rclt;
 
-    # g UI — first appearance: 0–15
-    variation cond_GEOM_UI_g_low {
-        lookup GEOM_UI_g_low {
-            sub g by g.rcltA11y;
-            sub gbreve by gbreve.rcltA11y;
-            sub gmacron by gmacron.rcltA11y;
-            sub gdotaccent by gdotaccent.rcltA11y;
-            sub gcircumflex by gcircumflex.rcltA11y;
-            sub gcommaaccent by gcommaaccent.rcltA11y;
-        } GEOM_UI_g_low;
-    } rclt;
+variation rclt cond_GEOM_GEO_jt {
+    sub t by t.rcltGeo;
+    sub tbar by tbar.rcltGeo;
+    sub tcaron by tcaron.rcltGeo;
+    sub tcedilla by tcedilla.rcltGeo;
+    sub tcommaaccent by tcommaaccent.rcltGeo;
+    sub tdotbelow by tdotbelow.rcltGeo;
+    sub tmacronbelow by tmacronbelow.rcltGeo;
+    sub f_t by f_t.rcltGeo;
+    sub ij by ij.rcltGeo;
+    sub ijacute by ijacute.rcltGeo;
+    sub pi by pi.rcltGeo;
+    sub j by j.rcltGeo;
+    sub jdotless by jdotless.rcltGeo;
+    sub jacute by jacute.rcltGeo;
+    sub jcircumflex by jcircumflex.rcltGeo;
+} rclt;
 
-
-    # g UI — cameo reappearance: 35–40
-    variation cond_GEOM_UI_g_cameo {
-        lookup GEOM_UI_g_cameo {
-            sub g by g.rcltA11y;
-            sub gbreve by gbreve.rcltA11y;
-            sub gmacron by gmacron.rcltA11y;
-            sub gdotaccent by gdotaccent.rcltA11y;
-            sub gcircumflex by gcircumflex.rcltA11y;
-            sub gcommaaccent by gcommaaccent.rcltA11y;
-        } GEOM_UI_g_cameo;
-    } rclt;
-
-
-    # a Text — 35–100
-    variation cond_GEOM_TEXT_a {
-        lookup GEOM_TEXT_a {
-            sub a by a.rcltBase;
-            sub aacute by aacute.rcltBase;
-            sub abreve by abreve.rcltBase;
-            sub abreveacute by abreveacute.rcltBase;
-            sub abrevedotbelow by abrevedotbelow.rcltBase;
-            sub abrevegrave by abrevegrave.rcltBase;
-            sub abrevehookabove by abrevehookabove.rcltBase;
-            sub abrevetilde by abrevetilde.rcltBase;
-            sub acircumflex by acircumflex.rcltBase;
-            sub acircumflexacute by acircumflexacute.rcltBase;
-            sub acircumflexdotbelow by acircumflexdotbelow.rcltBase;
-            sub acircumflexgrave by acircumflexgrave.rcltBase;
-            sub acircumflexhookabove by acircumflexhookabove.rcltBase;
-            sub acircumflextilde by acircumflextilde.rcltBase;
-            sub adieresis by adieresis.rcltBase;
-            sub adotbelow by adotbelow.rcltBase;
-            sub agrave by agrave.rcltBase;
-            sub ahookabove by ahookabove.rcltBase;
-            sub ainvertedbreve by ainvertedbreve.rcltBase;
-            sub amacron by amacron.rcltBase;
-            sub aogonek by aogonek.rcltBase;
-            sub aring by aring.rcltBase;
-            sub atilde by atilde.rcltBase;
-            sub ae by ae.rcltBase;
-            sub aemacron by aemacron.rcltBase;
-            sub ordfeminine by ordfeminine.rcltBase;
-        } GEOM_TEXT_a;
-    } rclt;
-
-
-    # f, j, t Text — 40–75 (j and t will be overwritten by Geo above 75)
-    variation cond_GEOM_TEXT_fjt {
-        lookup GEOM_TEXT_fjt {
-            sub f by f.rcltBase;
-
-            sub t by t.rcltBase;
-            sub tbar by tbar.rcltBase;
-            sub tcaron by tcaron.rcltBase;
-            sub tcedilla by tcedilla.rcltBase;
-            sub tcommaaccent by tcommaaccent.rcltBase;
-            sub tdotbelow by tdotbelow.rcltBase;
-            sub tmacronbelow by tmacronbelow.rcltBase;
-
-            sub fi by fi.rcltBase;
-            sub fl by fl.rcltBase;
-            sub f_f_i by f_f_i.rcltBase;
-            sub f_f_l by f_f_l.rcltBase;
-            sub f_t by f_t.rcltBase;
-
-            sub ijacute by ijacute.rcltBase;
-            sub j by j.rcltBase;
-            sub jdotless by jdotless.rcltBase;
-            sub jacute by jacute.rcltBase;
-            sub jcircumflex by jcircumflex.rcltBase;
-        } GEOM_TEXT_fjt;
-    } rclt;
-
-
-#    # f-only continuation — 76–100 (f stays Text since it has no Geo variant)
-#    variation cond_GEOM_TEXT_f_high {
-#        lookup GEOM_TEXT_f_high {
-#            sub f by f.rcltBase;
-#            sub fi by fi.rcltBase;
-#            sub fl by fl.rcltBase;
-#            sub f_f_i by f_f_i.rcltBase;
-#            sub f_f_l by f_f_l.rcltBase;
-#        } GEOM_TEXT_f_high;
-#    } rclt;
-
-
-    # y Text — 40–60
-    variation cond_GEOM_TEXT_y {
-        lookup GEOM_TEXT_y {
-            sub y by y.rcltBase;
-            sub yacute by yacute.rcltBase;
-            sub ycircumflex by ycircumflex.rcltBase;
-            sub ydieresis by ydieresis.rcltBase;
-            sub ydotaccent by ydotaccent.rcltBase;
-            sub ydotbelow by ydotbelow.rcltBase;
-            sub ygrave by ygrave.rcltBase;
-            sub yhookabove by yhookabove.rcltBase;
-            sub ytilde by ytilde.rcltBase;
-        } GEOM_TEXT_y;
-    } rclt;
-
-
-    # y, u Geo — 60–100 (u uses 60+ in v8, y crosses over at 60)
-    variation cond_GEOM_GEO_uy {
-        lookup GEOM_GEO_uy {
-            sub u by u.rcltGeo;
-            sub uacute by uacute.rcltGeo;
-            sub ubreve by ubreve.rcltGeo;
-            sub ucircumflex by ucircumflex.rcltGeo;
-            sub udieresis by udieresis.rcltGeo;
-            sub udotbelow by udotbelow.rcltGeo;
-            sub ugrave by ugrave.rcltGeo;
-            sub uhookabove by uhookabove.rcltGeo;
-            sub uhorn by uhorn.rcltGeo;
-            sub uhornacute by uhornacute.rcltGeo;
-            sub uhorndotbelow by uhorndotbelow.rcltGeo;
-            sub uhorngrave by uhorngrave.rcltGeo;
-            sub uhornhookabove by uhornhookabove.rcltGeo;
-            sub uhorntilde by uhorntilde.rcltGeo;
-            sub uhungarumlaut by uhungarumlaut.rcltGeo;
-            sub uinvertedbreve by uinvertedbreve.rcltGeo;
-            sub umacron by umacron.rcltGeo;
-            sub udieresisacute by udieresisacute.rcltGeo;
-            sub udieresisgrave by udieresisgrave.rcltGeo;
-            sub udieresiscaron by udieresiscaron.rcltGeo;
-            sub udieresismacron by udieresismacron.rcltGeo;
-            sub uogonek by uogonek.rcltGeo;
-            sub uring by uring.rcltGeo;
-            sub utilde by utilde.rcltGeo;
-
-            sub micro by micro.rcltGeo;
-
-            sub y by y.rcltGeo;
-            sub yacute by yacute.rcltGeo;
-            sub ycircumflex by ycircumflex.rcltGeo;
-            sub ydieresis by ydieresis.rcltGeo;
-            sub ydotaccent by ydotaccent.rcltGeo;
-            sub ydotbelow by ydotbelow.rcltGeo;
-            sub ygrave by ygrave.rcltGeo;
-            sub yhookabove by yhookabove.rcltGeo;
-            sub ytilde by ytilde.rcltGeo;
-        } GEOM_GEO_uy;
-    } rclt;
-
-
-    # j, t Geo — 75–100
-    variation cond_GEOM_GEO_jt {
-        lookup GEOM_GEO_jt {
-            sub t by t.rcltGeo;
-            sub tbar by tbar.rcltGeo;
-            sub tcaron by tcaron.rcltGeo;
-            sub tcedilla by tcedilla.rcltGeo;
-            sub tcommaaccent by tcommaaccent.rcltGeo;
-            sub tdotbelow by tdotbelow.rcltGeo;
-            sub tmacronbelow by tmacronbelow.rcltGeo;
-            sub f_t by f_t.rcltGeo;
-
-            sub ij by ij.rcltGeo;
-            sub ijacute by ijacute.rcltGeo;
-
-            sub pi by pi.rcltGeo;
-
-            sub j by j.rcltGeo;
-            sub jdotless by jdotless.rcltGeo;
-            sub jacute by jacute.rcltGeo;
-            sub jcircumflex by jcircumflex.rcltGeo;
-        } GEOM_GEO_jt;
-    } rclt;
-
-
-    # C, c, M, Eng, eng, numerals, currency Geo — 80–100
-    variation cond_GEOM_GEO_rest {
-        lookup GEOM_GEO_rest {
-            sub C by C.rcltGeo;
-            sub Cacute by Cacute.rcltGeo;
-            sub Ccaron by Ccaron.rcltGeo;
-            sub Ccedilla by Ccedilla.rcltGeo;
-            sub Ccircumflex by Ccircumflex.rcltGeo;
-            sub Cdotaccent by Cdotaccent.rcltGeo;
-
-            sub c by c.rcltGeo;
-            sub cacute by cacute.rcltGeo;
-            sub ccaron by ccaron.rcltGeo;
-            sub ccedilla by ccedilla.rcltGeo;
-            sub ccircumflex by ccircumflex.rcltGeo;
-            sub cdotaccent by cdotaccent.rcltGeo;
-
-            sub Eng by Eng.rcltGeo;
-            sub eng by eng.rcltGeo;
-
-            sub one by one.rcltGeo;
-            sub one.tf by one.tf.rcltGeo;
-            sub one.lf by one.lf.rcltGeo;
-            sub zero by zero.rcltGeo;
-            sub zero.zero by zero.zero.rcltGeo;
-            sub zero.tf by zero.tf.rcltGeo;
-            sub zero.lf by zero.lf.rcltGeo;
-
-            sub euro by euro.rcltGeo;
-            sub euro.tf by euro.tf.rcltGeo;
-
-            sub M by M.rcltGeo;
-            sub Mdotbelow by Mdotbelow.rcltGeo;
-            sub Mdotaccent by Mdotaccent.rcltGeo;
-            sub Mcommaaccent by Mcommaaccent.rcltGeo;
-            sub Mcommaaccent.loclMAH by Mcommaaccent.loclMAH.rcltGeo;
-        } GEOM_GEO_rest;
-    } rclt;
-
+variation rclt cond_GEOM_GEO_rest {
+    sub C by C.rcltGeo;
+    sub Cacute by Cacute.rcltGeo;
+    sub Ccaron by Ccaron.rcltGeo;
+    sub Ccedilla by Ccedilla.rcltGeo;
+    sub Ccircumflex by Ccircumflex.rcltGeo;
+    sub Cdotaccent by Cdotaccent.rcltGeo;
+    sub c by c.rcltGeo;
+    sub cacute by cacute.rcltGeo;
+    sub ccaron by ccaron.rcltGeo;
+    sub ccedilla by ccedilla.rcltGeo;
+    sub ccircumflex by ccircumflex.rcltGeo;
+    sub cdotaccent by cdotaccent.rcltGeo;
+    sub Eng by Eng.rcltGeo;
+    sub eng by eng.rcltGeo;
+    sub one by one.rcltGeo;
+    sub one.tf by one.tf.rcltGeo;
+    sub one.lf by one.lf.rcltGeo;
+    sub zero by zero.rcltGeo;
+    sub zero.zero by zero.zero.rcltGeo;
+    sub zero.tf by zero.tf.rcltGeo;
+    sub zero.lf by zero.lf.rcltGeo;
+    sub euro by euro.rcltGeo;
+    sub euro.tf by euro.tf.rcltGeo;
+    sub M by M.rcltGeo;
+    sub Mdotbelow by Mdotbelow.rcltGeo;
+    sub Mdotaccent by Mdotaccent.rcltGeo;
+    sub Mcommaaccent by Mcommaaccent.rcltGeo;
+    sub Mcommaaccent.loclMAH by Mcommaaccent.loclMAH.rcltGeo;
 } rclt;
 ";
 disabled = 1;
@@ -746,11 +676,11 @@ feature ss10;
 feature ss11;
 feature ss12;
 feature ss13;
+feature pnum;
+feature tnum;
 feature ss14;
 feature ss16;
 feature ss19;
-feature pnum;
-feature tnum;
 ";
 tag = aalt;
 },
@@ -891,7 +821,7 @@ code = "sub one by one.disp;
 sub one.rcltGeo by one.disp;
 sub zero by zero.disp;
 sub six by six.disp;
-sub seven by seven.disp;
+#sub seven by seven.disp;
 sub nine by nine.disp;
 sub zero.rcltGeo by zero.disp;
 sub zero.zero by zero.zero.disp;
@@ -1726,7 +1656,8 @@ sub Gcommaaccent by Gcommaaccent.ss06;
 sub Gdotaccent by Gdotaccent.ss06;
 sub Gmacron by Gmacron.ss06;
 sub guarani by guarani.ss06;
-sub guarani.tf by guarani.tf.ss06;";
+sub guarani.tf by guarani.tf.ss06;
+";
 tag = cv02;
 },
 {
@@ -1741,7 +1672,8 @@ sub cacute from [cacute.ss10];
 sub ccaron from [ccaron.ss10];
 sub ccircumflex from [ccircumflex.ss10];
 sub ccedilla from [ccedilla.ss10];
-sub cdotaccent from [cdotaccent.ss10];";
+sub cdotaccent from [cdotaccent.ss10];
+";
 tag = cv03;
 },
 {
@@ -1762,7 +1694,8 @@ sub tcedilla from [tcedilla.ss10];
 sub tcommaaccent from [tcommaaccent.ss10];
 sub tdotbelow from [tdotbelow.ss10];
 sub tmacronbelow from [tmacronbelow.ss10];
-sub pi from [pi.ss10];";
+sub pi from [pi.ss10];
+";
 tag = cv05;
 },
 {
@@ -1785,7 +1718,8 @@ sub uhungarumlaut from [uhungarumlaut.ss10];
 sub umacron from [umacron.ss10];
 sub uogonek from [uogonek.ss10];
 sub uring from [uring.ss10];
-sub utilde from [utilde.ss10];";
+sub utilde from [utilde.ss10];
+";
 tag = cv06;
 },
 {
@@ -1799,7 +1733,8 @@ tag = cv07;
 {
 code = "cvParameters { FeatUILabelNameID { name \"Futura-style one\"; }; };
 sub one from [one.ss10];
-sub one.tf from [one.tf.ss10];";
+sub one.tf from [one.tf.ss10];
+";
 tag = cv08;
 },
 {
@@ -2362,6 +2297,103 @@ tag = ss13;
 },
 {
 automatic = 1;
+code = "sub [zero one two three four five six seven eight nine] [A a]' by ordfeminine;
+sub [zero one two three four five six seven eight nine] [O o]' by ordmasculine;
+sub N o period by numero;
+";
+disabled = 1;
+tag = ordn;
+},
+{
+automatic = 1;
+code = "sub Xi.tf by Xi;
+sub zero.tf by zero;
+sub one.tf by one;
+sub two.tf by two;
+sub three.tf by three;
+sub four.tf by four;
+sub five.tf by five;
+sub six.tf by six;
+sub seven.tf by seven;
+sub eight.tf by eight;
+sub nine.tf by nine;
+sub numbersign.tf by numbersign;
+sub florin.tf by florin;
+sub baht.tf by baht;
+sub bitcoin.tf by bitcoin;
+sub cedi.tf by cedi;
+sub cent.tf by cent;
+sub colonsign.tf by colonsign;
+sub currency.tf by currency;
+sub dollar.tf by dollar;
+sub dong.tf by dong;
+sub euro.tf by euro;
+sub guarani.tf by guarani;
+sub hryvnia.tf by hryvnia;
+sub kip.tf by kip;
+sub lari.tf by lari;
+sub liraTurkish.tf by liraTurkish;
+sub naira.tf by naira;
+sub peso.tf by peso;
+sub riyalSaudi.tf by riyalSaudi;
+sub ruble.tf by ruble;
+sub rupee.tf by rupee;
+sub rupeeIndian.tf by rupeeIndian;
+sub sheqel.tf by sheqel;
+sub sterling.tf by sterling;
+sub tenge.tf by tenge;
+sub tugrik.tf by tugrik;
+sub won.tf by won;
+sub yen.tf by yen;
+";
+tag = pnum;
+},
+{
+automatic = 1;
+code = "sub Xi by Xi.tf;
+sub zero by zero.tf;
+sub one by one.tf;
+sub two by two.tf;
+sub three by three.tf;
+sub four by four.tf;
+sub five by five.tf;
+sub six by six.tf;
+sub seven by seven.tf;
+sub eight by eight.tf;
+sub nine by nine.tf;
+sub numbersign by numbersign.tf;
+sub florin by florin.tf;
+sub baht by baht.tf;
+sub bitcoin by bitcoin.tf;
+sub cedi by cedi.tf;
+sub cent by cent.tf;
+sub colonsign by colonsign.tf;
+sub currency by currency.tf;
+sub dollar by dollar.tf;
+sub dong by dong.tf;
+sub euro by euro.tf;
+sub guarani by guarani.tf;
+sub hryvnia by hryvnia.tf;
+sub kip by kip.tf;
+sub lari by lari.tf;
+sub liraTurkish by liraTurkish.tf;
+sub naira by naira.tf;
+sub peso by peso.tf;
+sub riyalSaudi by riyalSaudi.tf;
+sub ruble by ruble.tf;
+sub rupee by rupee.tf;
+sub rupeeIndian by rupeeIndian.tf;
+sub sheqel by sheqel.tf;
+sub sterling by sterling.tf;
+sub tenge by tenge.tf;
+sub tugrik by tugrik.tf;
+sub won by won.tf;
+sub yen by yen.tf;
+";
+tag = tnum;
+},
+{
+automatic = 1;
 code = "sub I by I.ss14;
 sub IJ by IJ.ss14;
 sub Iacute by Iacute.ss14;
@@ -2519,155 +2551,6 @@ script latn;
 lookup ccmp_latn_1;
 ";
 tag = ccmp;
-},
-{
-automatic = 1;
-code = "sub zero by zeroinferior;
-sub one by oneinferior;
-sub two by twoinferior;
-sub three by threeinferior;
-sub four by fourinferior;
-sub five by fiveinferior;
-sub six by sixinferior;
-sub seven by seveninferior;
-sub eight by eightinferior;
-sub nine by nineinferior;
-";
-disabled = 1;
-tag = subs;
-},
-{
-automatic = 1;
-code = "sub zero.ss10 by zero.ss10.numr;
-sub one.ss10 by one.ss10.numr;
-sub zero by zero.numr;
-sub one by one.numr;
-sub two by two.numr;
-sub three by three.numr;
-sub four by four.numr;
-sub five by five.numr;
-sub six by six.numr;
-sub seven by seven.numr;
-sub eight by eight.numr;
-sub nine by nine.numr;
-";
-disabled = 1;
-tag = numr;
-},
-{
-automatic = 1;
-code = "sub zero.ss10 by zero.ss10.dnom;
-sub one.ss10 by one.ss10.dnom;
-sub zero by zero.dnom;
-sub one by one.dnom;
-sub two by two.dnom;
-sub three by three.dnom;
-sub four by four.dnom;
-sub five by five.dnom;
-sub six by six.dnom;
-sub seven by seven.dnom;
-sub eight by eight.dnom;
-sub nine by nine.dnom;
-";
-disabled = 1;
-tag = dnom;
-},
-{
-automatic = 1;
-code = "sub [zero one two three four five six seven eight nine] [A a]' by ordfeminine;
-sub [zero one two three four five six seven eight nine] [O o]' by ordmasculine;
-sub N o period by numero;
-";
-disabled = 1;
-tag = ordn;
-},
-{
-automatic = 1;
-code = "sub Xi.tf by Xi;
-sub zero.tf by zero;
-sub one.tf by one;
-sub two.tf by two;
-sub three.tf by three;
-sub four.tf by four;
-sub five.tf by five;
-sub six.tf by six;
-sub seven.tf by seven;
-sub eight.tf by eight;
-sub nine.tf by nine;
-sub numbersign.tf by numbersign;
-sub florin.tf by florin;
-sub baht.tf by baht;
-sub bitcoin.tf by bitcoin;
-sub cedi.tf by cedi;
-sub cent.tf by cent;
-sub colonsign.tf by colonsign;
-sub currency.tf by currency;
-sub dollar.tf by dollar;
-sub dong.tf by dong;
-sub euro.tf by euro;
-sub guarani.tf by guarani;
-sub hryvnia.tf by hryvnia;
-sub kip.tf by kip;
-sub lari.tf by lari;
-sub liraTurkish.tf by liraTurkish;
-sub naira.tf by naira;
-sub peso.tf by peso;
-sub riyalSaudi.tf by riyalSaudi;
-sub ruble.tf by ruble;
-sub rupee.tf by rupee;
-sub rupeeIndian.tf by rupeeIndian;
-sub sheqel.tf by sheqel;
-sub sterling.tf by sterling;
-sub tenge.tf by tenge;
-sub tugrik.tf by tugrik;
-sub won.tf by won;
-sub yen.tf by yen;
-";
-tag = pnum;
-},
-{
-automatic = 1;
-code = "sub Xi by Xi.tf;
-sub zero by zero.tf;
-sub one by one.tf;
-sub two by two.tf;
-sub three by three.tf;
-sub four by four.tf;
-sub five by five.tf;
-sub six by six.tf;
-sub seven by seven.tf;
-sub eight by eight.tf;
-sub nine by nine.tf;
-sub numbersign by numbersign.tf;
-sub florin by florin.tf;
-sub baht by baht.tf;
-sub bitcoin by bitcoin.tf;
-sub cedi by cedi.tf;
-sub cent by cent.tf;
-sub colonsign by colonsign.tf;
-sub currency by currency.tf;
-sub dollar by dollar.tf;
-sub dong by dong.tf;
-sub euro by euro.tf;
-sub guarani by guarani.tf;
-sub hryvnia by hryvnia.tf;
-sub kip by kip.tf;
-sub lari by lari.tf;
-sub liraTurkish by liraTurkish.tf;
-sub naira by naira.tf;
-sub peso by peso.tf;
-sub riyalSaudi by riyalSaudi.tf;
-sub ruble by ruble.tf;
-sub rupee by rupee.tf;
-sub rupeeIndian by rupeeIndian.tf;
-sub sheqel by sheqel.tf;
-sub sterling by sterling.tf;
-sub tenge by tenge.tf;
-sub tugrik by tugrik.tf;
-sub won by won.tf;
-sub yen by yen.tf;
-";
-tag = tnum;
 },
 {
 code = "sub zero by zeroinferior;
